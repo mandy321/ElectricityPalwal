@@ -120,11 +120,7 @@ async function initApp() {
     
     // Set last updated time
     if (outagesData.last_updated) {
-      const updateDate = new Date(outagesData.last_updated);
-      lastUpdatedTime.textContent = updateDate.toLocaleString('en-IN', {
-        dateStyle: 'medium',
-        timeStyle: 'short'
-      });
+      lastUpdatedTime.textContent = getLastUpdatedText();
     }
     
     showLoader(false);
@@ -233,7 +229,10 @@ function renderSharedArea() {
     sharedCard.innerHTML = `
       <div class="shared-card-header">
         <h3><i class="fa-solid fa-share-nodes" style="color: var(--primary-color);"></i> Shared Locality Status</h3>
-        <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer;" onclick="dismissSharedArea()"><i class="fa-solid fa-xmark"></i> Dismiss</button>
+        <div style="display: flex; gap: 12px; align-items: center;">
+          <button class="btn-refresh shared-refresh-btn" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="handleLiveRefresh('${sharedArea.districtId}')" title="Refresh live status"><i class="fa-solid fa-rotate"></i> Refresh</button>
+          <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer;" onclick="dismissSharedArea()"><i class="fa-solid fa-xmark"></i> Dismiss</button>
+        </div>
       </div>
       <div class="shared-card-body">
         <div class="shared-item" style="grid-column: 1 / -1;">
@@ -257,6 +256,9 @@ function renderSharedArea() {
           <i class="fa-solid fa-circle-info"></i>
           <span><strong>Remarks:</strong> <span style="font-style:italic;">${remarks}</span></span>
         </div>
+        <div class="shared-item" style="grid-column: 1 / -1; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 8px; margin-top: 4px; font-size: 12px; color: var(--text-muted);">
+          <i class="fa-solid fa-clock-rotate-left"></i> Last Checked: ${getLastUpdatedText()}
+        </div>
       </div>
     `;
   } else {
@@ -264,14 +266,22 @@ function renderSharedArea() {
     sharedCard.innerHTML = `
       <div class="shared-card-header">
         <h3><i class="fa-solid fa-share-nodes" style="color: var(--primary-color);"></i> Shared Locality Status</h3>
-        <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer;" onclick="dismissSharedArea()"><i class="fa-solid fa-xmark"></i> Dismiss</button>
+        <div style="display: flex; gap: 12px; align-items: center;">
+          <button class="btn-refresh shared-refresh-btn" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="handleLiveRefresh('${sharedArea.districtId}')" title="Refresh live status"><i class="fa-solid fa-rotate"></i> Refresh</button>
+          <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer;" onclick="dismissSharedArea()"><i class="fa-solid fa-xmark"></i> Dismiss</button>
+        </div>
       </div>
       <div class="shared-card-body">
-        <div class="shared-item" style="grid-column: 1 / -1; display:flex; align-items:center; gap: 14px;">
-          <div class="status-badge badge-glow-green" style="font-size: 14px; padding: 6px 12px;">
-            <i class="fa-solid fa-circle-check"></i> Power Active & Healthy
+        <div class="shared-item" style="grid-column: 1 / -1; display:flex; flex-direction:column; gap: 8px;">
+          <div style="display:flex; align-items:center; gap: 14px;">
+            <div class="status-badge badge-glow-green" style="font-size: 14px; padding: 6px 12px;">
+              <i class="fa-solid fa-circle-check"></i> No Active Outage
+            </div>
+            <span style="font-size: 14px; color: var(--text-dim);">No outages are currently reported for <strong>${sharedArea.area} (${sharedArea.feeder})</strong> on the DHBVN portal.</span>
           </div>
-          <span>No outages recorded for <strong>${sharedArea.area} (${sharedArea.feeder})</strong>. Power is currently active!</span>
+          <div style="font-size: 12px; color: var(--text-muted); border-top: 1px solid rgba(255,255,255,0.05); padding-top: 8px; margin-top: 4px;">
+            <i class="fa-solid fa-clock-rotate-left"></i> Last Checked: ${getLastUpdatedText()}
+          </div>
         </div>
       </div>
     `;
@@ -343,6 +353,7 @@ function renderPinnedArea() {
       <div class="pinned-card-header">
         <h3><i class="fa-solid fa-star" style="color: var(--warning-color);"></i> Pinned Locality</h3>
         <div style="display: flex; gap: 12px; align-items: center;">
+          <button class="btn-refresh pinned-refresh-btn" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="handleLiveRefresh('${pinnedArea.districtId}')" title="Refresh live status"><i class="fa-solid fa-rotate"></i> Refresh</button>
           <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="shareArea('${pinnedArea.districtId}', '${pinnedArea.districtName}', '${pinnedArea.feeder}', '${pinnedArea.area}')" title="Share live status link"><i class="fa-solid fa-share-nodes"></i> Share</button>
           <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="unpinArea()"><i class="fa-solid fa-trash-can"></i> Unpin</button>
         </div>
@@ -369,6 +380,9 @@ function renderPinnedArea() {
           <i class="fa-solid fa-circle-info"></i>
           <span><strong>Remarks:</strong> <span style="font-style:italic;">${remarks}</span></span>
         </div>
+        <div class="pinned-item" style="grid-column: 1 / -1; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 8px; margin-top: 4px; font-size: 12px; color: var(--text-muted);">
+          <i class="fa-solid fa-clock-rotate-left"></i> Last Checked: ${getLastUpdatedText()}
+        </div>
       </div>
     `;
   } else {
@@ -376,16 +390,22 @@ function renderPinnedArea() {
       <div class="pinned-card-header">
         <h3><i class="fa-solid fa-star" style="color: var(--warning-color);"></i> Pinned Locality</h3>
         <div style="display: flex; gap: 12px; align-items: center;">
+          <button class="btn-refresh pinned-refresh-btn" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="handleLiveRefresh('${pinnedArea.districtId}')" title="Refresh live status"><i class="fa-solid fa-rotate"></i> Refresh</button>
           <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="shareArea('${pinnedArea.districtId}', '${pinnedArea.districtName}', '${pinnedArea.feeder}', '${pinnedArea.area}')" title="Share live status link"><i class="fa-solid fa-share-nodes"></i> Share</button>
           <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="unpinArea()"><i class="fa-solid fa-trash-can"></i> Unpin</button>
         </div>
       </div>
       <div class="pinned-card-body">
-        <div class="pinned-item" style="grid-column: 1 / -1; display:flex; align-items:center; gap: 14px;">
-          <div class="status-badge badge-glow-green" style="font-size: 14px; padding: 6px 12px;">
-            <i class="fa-solid fa-circle-check"></i> Power Active & Healthy
+        <div class="pinned-item" style="grid-column: 1 / -1; display:flex; flex-direction:column; gap: 8px;">
+          <div style="display:flex; align-items:center; gap: 14px;">
+            <div class="status-badge badge-glow-green" style="font-size: 14px; padding: 6px 12px;">
+              <i class="fa-solid fa-circle-check"></i> No Active Outage
+            </div>
+            <span style="font-size: 14px; color: var(--text-dim);">No outages are currently reported for <strong>${pinnedArea.area} (${pinnedArea.feeder})</strong> on the DHBVN portal.</span>
           </div>
-          <span>No outages recorded for <strong>${pinnedArea.area} (${pinnedArea.feeder})</strong>.</span>
+          <div style="font-size: 12px; color: var(--text-muted); border-top: 1px solid rgba(255,255,255,0.05); padding-top: 8px; margin-top: 4px;">
+            <i class="fa-solid fa-clock-rotate-left"></i> Last Checked: ${getLastUpdatedText()}
+          </div>
         </div>
       </div>
     `;
@@ -735,16 +755,25 @@ function checkLocalityOutages() {
 }
 
 // Live On-Demand Refresh via CORS Proxy
-async function handleLiveRefresh() {
-  if (!currentDistrictId) return;
+window.handleLiveRefresh = async function(targetDistrictId) {
+  const districtId = targetDistrictId || currentDistrictId;
+  if (!districtId) return;
   
-  refreshBtn.disabled = true;
-  refreshIcon.classList.add('spin-animation');
-  refreshBtnText.textContent = "Refreshing...";
+  const isTargetedRefresh = !!targetDistrictId;
+  const districtName = DISTRICT_ID_TO_NAME[districtId];
+  
+  if (!isTargetedRefresh) {
+    refreshBtn.disabled = true;
+    refreshIcon.classList.add('spin-animation');
+    refreshBtnText.textContent = "Refreshing...";
+  }
+  
+  const pinnedRefreshIcons = document.querySelectorAll('.pinned-refresh-btn i, .shared-refresh-btn i');
+  pinnedRefreshIcons.forEach(icon => icon.classList.add('fa-spin'));
   
   try {
     // 1. Build request XML string with selected district's numeric ID
-    const xmlRequest = `<?xml version="1.0"?><Request VERSION="2" LANGUAGE_ID="1" LOCATION=""><Company Company_Id="93" /><Project Project_Id="304" /><User User_Id="Anonymous" /><IUVLogin IUVLogin_Id="Anonymous" /><ROLE ROLE_ID="1595" /><Event Control_Id="130404" /><Child Control_Id="125681" Report="HTML" AC_ID="163944"><Parent Control_Id="130402" Value="${currentDistrictId}" Data_Form_Id="" XValue="${currentDistrictId}" YValue="" ZValue="" /></Child></Request>`;
+    const xmlRequest = `<?xml version="1.0"?><Request VERSION="2" LANGUAGE_ID="1" LOCATION=""><Company Company_Id="93" /><Project Project_Id="304" /><User User_Id="Anonymous" /><IUVLogin IUVLogin_Id="Anonymous" /><ROLE ROLE_ID="1595" /><Event Control_Id="130404" /><Child Control_Id="125681" Report="HTML" AC_ID="163944"><Parent Control_Id="130402" Value="${districtId}" Data_Form_Id="" XValue="${districtId}" YValue="" ZValue="" /></Child></Request>`;
     
     // 2. Base64 encode XML payload
     const base64Payload = btoa(xmlRequest);
@@ -790,16 +819,19 @@ async function handleLiveRefresh() {
     }));
     
     // 5. Overwrite the in-memory array for this district
-    outagesData.districts[currentDistrictName] = list;
+    outagesData.districts[districtName] = list;
     
     // 6. Update timestamp UI and in-memory date
     const now = new Date();
+    outagesData.last_updated = now.toISOString();
     lastUpdatedTime.textContent = "Refreshed Live: " + now.toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
     
     // 7. Update UI view panels
-    updateStats();
-    renderOutages();
-    checkLocalityOutages();
+    if (currentDistrictId === districtId) {
+      updateStats();
+      renderOutages();
+      checkLocalityOutages();
+    }
     renderPinnedArea();
     renderSharedArea();
     
@@ -807,9 +839,12 @@ async function handleLiveRefresh() {
     console.error('On-demand refresh error:', err);
     alert('Failed to refresh data live from DHBVN. Please check your internet connection or try again later.');
   } finally {
-    refreshBtn.disabled = false;
-    refreshIcon.classList.remove('spin-animation');
-    refreshBtnText.textContent = "Refresh Live";
+    if (!isTargetedRefresh) {
+      refreshBtn.disabled = false;
+      refreshIcon.classList.remove('spin-animation');
+      refreshBtnText.textContent = "Refresh Live";
+    }
+    pinnedRefreshIcons.forEach(icon => icon.classList.remove('fa-spin'));
   }
 }
 
@@ -846,4 +881,20 @@ function formatTimeTo12Hr(timeStr) {
   
   const formattedHours = hours < 10 ? '0' + hours : hours;
   return `${datePart} ${formattedHours}:${minutes} ${ampm}`;
+}
+
+// Helper: Get human-readable last updated time
+function getLastUpdatedText() {
+  if (!outagesData || !outagesData.last_updated) {
+    return "N/A";
+  }
+  const date = new Date(outagesData.last_updated);
+  if (isNaN(date.getTime())) {
+    return outagesData.last_updated;
+  }
+  return date.toLocaleString('en-IN', {
+    dateStyle: 'medium',
+    timeStyle: 'short',
+    hour12: true
+  });
 }
