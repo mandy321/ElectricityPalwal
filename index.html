@@ -6,6 +6,9 @@
   <meta name="description" content="Track live electricity power cuts and outages in Palwal, Haryana — real-time DHBVN updates every 20 minutes covering all 12 DHBVN districts.">
   <title>Palwal(Haryana) Power Outage Tracker — Live DHBVN Updates</title>
   
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -250,6 +253,16 @@
 
       <!-- History Archive Section -->
       <section id="historySection" class="outage-list-container hidden">
+        <!-- 14-Day Outage Trend Chart Card -->
+        <div class="glass-card chart-container-card" style="margin-bottom: 24px; padding: 20px;">
+          <h3 style="font-family: var(--font-heading); font-size: 16px; font-weight: 600; margin-bottom: 16px; color: #fff; display: flex; align-items: center; gap: 8px;">
+            <i class="fa-solid fa-chart-simple" style="color: var(--primary-color);"></i> 14-Day Outage Trend
+          </h3>
+          <div style="position: relative; height: 260px; width: 100%;">
+            <canvas id="outageTrendChart"></canvas>
+          </div>
+        </div>
+
         <div class="list-header-actions">
           <div class="header-title-row">
             <h2>Archive · <span id="historyDistrictName">Jind</span></h2>

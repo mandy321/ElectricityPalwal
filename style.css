@@ -1323,3 +1323,9 @@ body {
   gap: 10px;
   align-items: center;
 }
+
+/* Outage Trend Chart Styling */
+.chart-container-card {
+  border: 1px solid var(--card-border);
+  background: rgba(17, 19, 34, 0.4);
+}

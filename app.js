@@ -7,6 +7,7 @@ let sharedArea = null;
 let currentSeverityFilter = "all";
 let currentViewTab = "live";
 let districtHistoryData = null;
+let outageTrendChartInstance = null;
 
 let userLocalityData = {
   district: "",
@@ -1074,10 +1075,12 @@ async function loadHistory() {
     });
     
     renderHistory();
+    renderOutageChart(districtHistoryData);
   } catch (err) {
     console.log("History fetch failed:", err);
     districtHistoryData = [];
     renderHistory();
+    renderOutageChart(districtHistoryData);
   }
 }
 
@@ -1207,4 +1210,127 @@ function parseDHBVNDate(dateStr) {
   const seconds = timeParts[2] ? parseInt(timeParts[2], 10) : 0;
   
   return new Date(year, month, day, hours, minutes, seconds);
+}
+
+// Render 14-Day Outage Trend Bar Graph
+function renderOutageChart(historyData) {
+  const canvas = document.getElementById('outageTrendChart');
+  if (!canvas) return;
+  
+  // 1. Identify the last 14 days in IST
+  const nowISTStr = new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' });
+  const nowIST = new Date(nowISTStr);
+  
+  const labels = [];
+  const dailyCounts = {};
+  
+  for (let i = 13; i >= 0; i--) {
+    const tempDate = new Date(nowIST.getTime());
+    tempDate.setDate(nowIST.getDate() - i);
+    const day = tempDate.getDate().toString().padStart(2, '0');
+    const month = (tempDate.getMonth() + 1).toString().padStart(2, '0');
+    const dateLabel = `${day}/${month}`;
+    labels.push(dateLabel);
+    dailyCounts[dateLabel] = 0;
+  }
+  
+  // 2. Aggregate history data based on start_time or fallback to scraped_at
+  (historyData || []).forEach(item => {
+    const dateObj = parseDHBVNDate(item.start_time) || parseDHBVNDate(item.scraped_at);
+    if (dateObj) {
+      const day = dateObj.getDate().toString().padStart(2, '0');
+      const month = (dateObj.getMonth() + 1).toString().padStart(2, '0');
+      const dateLabel = `${day}/${month}`;
+      if (dateLabel in dailyCounts) {
+        dailyCounts[dateLabel]++;
+      }
+    }
+  });
+  
+  const counts = labels.map(lbl => dailyCounts[lbl]);
+  
+  // 3. Dynamic Bar Colors: > 5 rose/red (#f43f5e), <= 5 amber/orange (#f59e0b)
+  const backgroundColors = counts.map(c => c > 5 ? 'rgba(244, 63, 94, 0.75)' : 'rgba(245, 158, 11, 0.75)');
+  const borderColors = counts.map(c => c > 5 ? '#f43f5e' : '#f59e0b');
+  
+  // 4. Destroy existing chart instance to prevent canvas rendering overlap
+  if (outageTrendChartInstance) {
+    outageTrendChartInstance.destroy();
+  }
+  
+  // 5. Build Chart.js bar chart
+  const ctx = canvas.getContext('2d');
+  outageTrendChartInstance = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: labels,
+      datasets: [{
+        label: 'Outages Started',
+        data: counts,
+        backgroundColor: backgroundColors,
+        borderColor: borderColors,
+        borderWidth: 1.5,
+        borderRadius: 6,
+        barPercentage: 0.65
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        },
+        tooltip: {
+          backgroundColor: 'rgba(16, 18, 30, 0.95)',
+          titleColor: '#fff',
+          titleFont: {
+            family: 'Outfit',
+            weight: '600'
+          },
+          bodyColor: '#e5e7eb',
+          bodyFont: {
+            family: 'Inter'
+          },
+          borderColor: 'rgba(255, 255, 255, 0.08)',
+          borderWidth: 1,
+          padding: 10,
+          displayColors: false,
+          callbacks: {
+            label: function(context) {
+              return `New Outages: ${context.parsed.y}`;
+            }
+          }
+        }
+      },
+      scales: {
+        x: {
+          grid: {
+            display: false
+          },
+          ticks: {
+            color: '#9ca3af',
+            font: {
+              family: 'Inter',
+              size: 11
+            }
+          }
+        },
+        y: {
+          beginAtZero: true,
+          grid: {
+            color: 'rgba(255, 255, 255, 0.08)'
+          },
+          ticks: {
+            color: '#9ca3af',
+            font: {
+              family: 'Inter',
+              size: 11
+            },
+            precision: 0
+          }
+        }
+      }
+    }
+  });
 }
