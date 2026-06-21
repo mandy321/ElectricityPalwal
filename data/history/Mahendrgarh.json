@@ -3818,5 +3818,265 @@
     "scraped_at": "6/21/2026, 10:52:58 AM (IST)",
     "last_seen_at": "6/21/2026, 10:52:58 AM (IST)",
     "timestamp": 1782039178000
+  },
+  {
+    "feeder": "NOLEJA -I AP",
+    "area": "Nolpur",
+    "start_time": "21-Jun-2026 11:24:50",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "MANDOLA AP (33 KV BARDA)",
+    "area": "Mandola",
+    "start_time": "21-Jun-2026 14:49:16",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "BASARI AP",
+    "area": "Basri AP",
+    "start_time": "21-Jun-2026 14:48:36",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "PILANIA AP",
+    "area": "Pilaniya",
+    "start_time": "21-Jun-2026 14:52:48",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "MADHOGARH -I AP",
+    "area": "Madhogarh",
+    "start_time": "21-Jun-2026 11:45:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "NANGAL-SIROHI DS",
+    "area": "Dhani Bhalotiya",
+    "start_time": "21-Jun-2026 11:42:49",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "NANGAL-SIROHI DS",
+    "area": "Nangal Sirohi",
+    "start_time": "21-Jun-2026 11:42:49",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "JARWA AP",
+    "area": "Jarwa",
+    "start_time": "21-Jun-2026 14:48:35",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "TEHLA DS",
+    "area": "Dhani Mukandpura",
+    "start_time": "21-Jun-2026 14:02:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "TEHLA DS",
+    "area": "Tehla",
+    "start_time": "21-Jun-2026 14:02:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "TEHLA DS",
+    "area": "Mukundpura",
+    "start_time": "21-Jun-2026 14:02:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "TEHLA DS",
+    "area": "Dhani Chiragpura",
+    "start_time": "21-Jun-2026 14:02:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "TEHLA DS",
+    "area": "Tajipur",
+    "start_time": "21-Jun-2026 14:02:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "TEHLA DS",
+    "area": "Maandi",
+    "start_time": "21-Jun-2026 14:02:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "SURANI DS",
+    "area": "Surani",
+    "start_time": "21-Jun-2026 12:44:38",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "RADHA DS",
+    "area": "Baghot",
+    "start_time": "21-Jun-2026 14:02:01",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "RADHA DS",
+    "area": "Rambass",
+    "start_time": "21-Jun-2026 14:02:01",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "AMARPURA DS",
+    "area": "Dhani Poswal",
+    "start_time": "21-Jun-2026 13:18:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "AMARPURA DS",
+    "area": "Amarpura",
+    "start_time": "21-Jun-2026 13:18:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "AMARPURA DS",
+    "area": "Dhani Badwali",
+    "start_time": "21-Jun-2026 13:18:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "AMARPURA DS",
+    "area": "Dhani Sainia",
+    "start_time": "21-Jun-2026 13:18:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "AMARPURA DS",
+    "area": "Banihari",
+    "start_time": "21-Jun-2026 13:18:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "AMARPURA DS",
+    "area": "Bal Ki Dhani",
+    "start_time": "21-Jun-2026 13:18:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "AMARPURA DS",
+    "area": "Maliyawali Dhani",
+    "start_time": "21-Jun-2026 13:18:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "AMARPURA DS",
+    "area": "Dhani Sanga Wali",
+    "start_time": "21-Jun-2026 13:18:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
+  },
+  {
+    "feeder": "AMARPURA DS",
+    "area": "Mala Ki Dhani",
+    "start_time": "21-Jun-2026 13:18:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:12 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:12 PM (IST)",
+    "timestamp": 1782054012000
   }
 ]

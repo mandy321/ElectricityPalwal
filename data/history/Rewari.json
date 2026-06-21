@@ -1528,5 +1528,295 @@
     "scraped_at": "6/21/2026, 10:53:04 AM (IST)",
     "last_seen_at": "6/21/2026, 10:53:04 AM (IST)",
     "timestamp": 1782039184000
+  },
+  {
+    "feeder": "RAJPURA AP",
+    "area": "Rajpura",
+    "start_time": "21-Jun-2026 14:44:39",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "IND JIWRA",
+    "area": "Jiwra",
+    "start_time": "21-Jun-2026 12:13:47",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "MURLIPUR",
+    "area": "Murlipur",
+    "start_time": "21-Jun-2026 11:13:18",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "MURLIPUR",
+    "area": "Gugodh",
+    "start_time": "21-Jun-2026 11:13:18",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "GUDIYANI",
+    "area": "Shiv Colony",
+    "start_time": "21-Jun-2026 12:36:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "GUDIYANI",
+    "area": "kosli",
+    "start_time": "21-Jun-2026 12:36:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "GUDIYANI",
+    "area": "Kanharwas",
+    "start_time": "21-Jun-2026 12:36:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "GUDIYANI",
+    "area": "Kosli",
+    "start_time": "21-Jun-2026 12:36:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "GUDIYANI",
+    "area": "Gogodh",
+    "start_time": "21-Jun-2026 12:36:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "GUDIYANI",
+    "area": "Railway Station Nahar Road",
+    "start_time": "21-Jun-2026 12:36:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "NANGAL PATHANI DS",
+    "area": "Lula Ahir",
+    "start_time": "21-Jun-2026 13:55:23",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "NANGAL PATHANI DS",
+    "area": "Bhurthla",
+    "start_time": "21-Jun-2026 13:55:23",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "NANGAL PATHANI DS",
+    "area": "Tumna",
+    "start_time": "21-Jun-2026 13:55:23",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "NANGAL PATHANI DS",
+    "area": "Bhurthala",
+    "start_time": "21-Jun-2026 13:55:23",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "NANGAL PATHANI DS",
+    "area": "Jahidpur",
+    "start_time": "21-Jun-2026 13:55:23",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "NANGAL PATHANI DS",
+    "area": "Shyam Nagar",
+    "start_time": "21-Jun-2026 13:55:23",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Panchgaon",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Pithanwas",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Niganiawas",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Panchore",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Raliawas",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Sampli",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Majri Dudha",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Ashiaki",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Baliar Khurd",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Jarthal",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Rattanpur Ki Dhani",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Baliarkalan",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
+  },
+  {
+    "feeder": "RALIAWAS",
+    "area": "Nikhri",
+    "start_time": "21-Jun-2026 12:02:27",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:18 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:18 PM (IST)",
+    "timestamp": 1782054018000
   }
 ]

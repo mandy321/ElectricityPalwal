@@ -968,5 +968,155 @@
     "scraped_at": "6/21/2026, 10:53:10 AM (IST)",
     "last_seen_at": "6/21/2026, 10:53:10 AM (IST)",
     "timestamp": 1782039190000
+  },
+  {
+    "feeder": "DHANAWAS AP",
+    "area": "Hamirpur",
+    "start_time": "21-Jun-2026 14:00:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "PATLI AP",
+    "area": "Patli",
+    "start_time": "21-Jun-2026 14:00:00",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "JUDOLA AP",
+    "area": "Khuram Pur",
+    "start_time": "21-Jun-2026 13:59:53",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "TEEKLI DS",
+    "area": "Aklimpur",
+    "start_time": "21-Jun-2026 14:32:48",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "TEEKLI DS",
+    "area": "Village Teekli",
+    "start_time": "21-Jun-2026 14:32:48",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "GANESH MARKET (U)",
+    "area": "Shish Mahal",
+    "start_time": "21-Jun-2026 13:18:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "GANESH MARKET (U)",
+    "area": "Crusher Zone Jhajjar Road",
+    "start_time": "21-Jun-2026 13:18:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "GANESH MARKET (U)",
+    "area": "Warehouses",
+    "start_time": "21-Jun-2026 13:18:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "GARHI AP",
+    "area": "Subhe Ki Dhani",
+    "start_time": "21-Jun-2026 13:59:58",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "B/KHURD DS",
+    "area": "Bhora Khurd",
+    "start_time": "21-Jun-2026 13:00:51",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Daboda",
+    "start_time": "21-Jun-2026 12:24:20",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Jai Hind Ki Dhani",
+    "start_time": "21-Jun-2026 12:24:20",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Ramji Lal Ki Dhani",
+    "start_time": "21-Jun-2026 12:24:20",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Joniyawas",
+    "start_time": "21-Jun-2026 12:24:20",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
+  },
+  {
+    "feeder": "MUSHED PUR AP",
+    "area": "Musedpur",
+    "start_time": "21-Jun-2026 13:18:29",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:24 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:24 PM (IST)",
+    "timestamp": 1782054024000
   }
 ]

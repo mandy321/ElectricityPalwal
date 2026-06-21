@@ -1266,7 +1266,7 @@
     "expected_restoration_time": "",
     "remarks": "UNPLANNED",
     "scraped_at": "6/21/2026, 10:52:34 AM (IST)",
-    "last_seen_at": "6/21/2026, 10:52:34 AM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
     "timestamp": 1782039154000
   },
   {
@@ -1276,7 +1276,7 @@
     "expected_restoration_time": "",
     "remarks": "UNPLANNED",
     "scraped_at": "6/21/2026, 10:52:34 AM (IST)",
-    "last_seen_at": "6/21/2026, 10:52:34 AM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
     "timestamp": 1782039154000
   },
   {
@@ -1448,5 +1448,205 @@
     "scraped_at": "6/21/2026, 10:52:34 AM (IST)",
     "last_seen_at": "6/21/2026, 10:52:34 AM (IST)",
     "timestamp": 1782039154000
+  },
+  {
+    "feeder": "SIWANI DS",
+    "area": "NEHLA",
+    "start_time": "21-Jun-2026 12:38:37",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "SIWANI DS",
+    "area": "Nehla",
+    "start_time": "21-Jun-2026 12:38:37",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "PIRTHLA (A) AP",
+    "area": "Prithla A",
+    "start_time": "21-Jun-2026 12:12:32",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "RATTA KHERA DS",
+    "area": "Ratta Khera",
+    "start_time": "21-Jun-2026 14:53:24",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "RATTA KHERA DS",
+    "area": "Kharti Khera",
+    "start_time": "21-Jun-2026 14:53:24",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "GORAKHPUR DS",
+    "area": "Mochi",
+    "start_time": "21-Jun-2026 12:40:43",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "GORAKHPUR DS",
+    "area": "Gorkhpur",
+    "start_time": "21-Jun-2026 12:40:43",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "GORAKHPUR DS",
+    "area": "MochiChobara",
+    "start_time": "21-Jun-2026 12:40:43",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "GORAKHPUR DS",
+    "area": "Gorakhpur",
+    "start_time": "21-Jun-2026 12:40:43",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "GORAKHPUR DS",
+    "area": "Gohrakpur",
+    "start_time": "21-Jun-2026 12:40:43",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "GORAKHPUR DS",
+    "area": "Chobara",
+    "start_time": "21-Jun-2026 12:40:43",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "GHOTRU DS",
+    "area": "Ghotru",
+    "start_time": "21-Jun-2026 12:41:51",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "DHARSUL DS",
+    "area": "Diwana",
+    "start_time": "21-Jun-2026 14:50:49",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "DHARSUL DS",
+    "area": "Dharsul",
+    "start_time": "21-Jun-2026 14:50:49",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "JAMALPUR  DS",
+    "area": "Jamalpur Kanhora",
+    "start_time": "21-Jun-2026 12:02:14",
+    "expected_restoration_time": "",
+    "remarks": "PLANNED",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "CITY-VIII (U)",
+    "area": "Prem Nagar",
+    "start_time": "21-Jun-2026 11:30:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "CITY-VIII (U)",
+    "area": "City 8Th",
+    "start_time": "21-Jun-2026 11:30:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "CITY-VIII (U)",
+    "area": "Railway Road",
+    "start_time": "21-Jun-2026 11:30:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "SIWANI BOLAN DS",
+    "area": "Siwani Bolan",
+    "start_time": "21-Jun-2026 12:40:47",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
+  },
+  {
+    "feeder": "SIWANI BOLAN DS",
+    "area": "Sewani Bolan",
+    "start_time": "21-Jun-2026 12:40:47",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 2:59:48 PM (IST)",
+    "last_seen_at": "6/21/2026, 2:59:48 PM (IST)",
+    "timestamp": 1782053988000
   }
 ]

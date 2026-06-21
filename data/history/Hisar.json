@@ -1738,5 +1738,305 @@
     "scraped_at": "6/21/2026, 10:52:46 AM (IST)",
     "last_seen_at": "6/21/2026, 10:52:46 AM (IST)",
     "timestamp": 1782039166000
+  },
+  {
+    "feeder": "SECTOR 27-28",
+    "area": "Sector 27 and 28 industries",
+    "start_time": "21-Jun-2026 14:53:26",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "MUKLAN DS",
+    "area": "Devan",
+    "start_time": "21-Jun-2026 14:51:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "MUKLAN DS",
+    "area": "Muklan",
+    "start_time": "21-Jun-2026 14:51:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "MUKLAN DS",
+    "area": "Kalwas",
+    "start_time": "21-Jun-2026 14:51:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "MUKLAN DS",
+    "area": "Bhariyan",
+    "start_time": "21-Jun-2026 14:51:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "MUKLAN DS",
+    "area": "BHERIA",
+    "start_time": "21-Jun-2026 14:51:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "KHEDAR DS",
+    "area": "Devi Garh Punia",
+    "start_time": "21-Jun-2026 11:42:14",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "KHEDAR DS",
+    "area": "Khedar",
+    "start_time": "21-Jun-2026 11:42:14",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "KOTH KALAN DS",
+    "area": "KOTH KALAN",
+    "start_time": "21-Jun-2026 13:14:53",
+    "expected_restoration_time": "21-Jun-2026 15:14:53",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "KOTH KALAN DS",
+    "area": "Koth",
+    "start_time": "21-Jun-2026 13:14:53",
+    "expected_restoration_time": "21-Jun-2026 15:14:53",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "MADHA DS",
+    "area": "Madha",
+    "start_time": "21-Jun-2026 14:02:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "MADHA DS",
+    "area": "Sotha Madha",
+    "start_time": "21-Jun-2026 14:02:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "SECTOR 3-5 (U)",
+    "area": "Vishawkarma Colony",
+    "start_time": "21-Jun-2026 13:14:42",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "SECTOR 3-5 (U)",
+    "area": "Hanuman Colony",
+    "start_time": "21-Jun-2026 13:14:42",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "SECTOR 3-5 (U)",
+    "area": "Sector 5 (Housing Board Colony)",
+    "start_time": "21-Jun-2026 13:14:42",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "SECTOR 3-5 (U)",
+    "area": "New Sunder Nagar",
+    "start_time": "21-Jun-2026 13:14:42",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "SECTOR 3-5 (U)",
+    "area": "Aadarsh Colony",
+    "start_time": "21-Jun-2026 13:14:42",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "SECTOR 3-5 (U)",
+    "area": "Shiv Adarsh Nagar",
+    "start_time": "21-Jun-2026 13:14:42",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "SECTOR 3-5 (U)",
+    "area": "Adarsh Nagar",
+    "start_time": "21-Jun-2026 13:14:42",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "SECTOR 3-5 (U)",
+    "area": "Surajmal Enclave",
+    "start_time": "21-Jun-2026 13:14:42",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV SECTOR 1-4 HBC",
+    "area": "Hbc Sector 1 and 4",
+    "start_time": "21-Jun-2026 14:16:34",
+    "expected_restoration_time": "21-Jun-2026 18:16:34",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV SECTOR 1-4 HBC",
+    "area": "Sector 1 And 4 Housing Board Colony",
+    "start_time": "21-Jun-2026 14:16:34",
+    "expected_restoration_time": "21-Jun-2026 18:16:34",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV SECTOR 1-4 HBC",
+    "area": "Sector 4 Housing Board",
+    "start_time": "21-Jun-2026 14:16:34",
+    "expected_restoration_time": "21-Jun-2026 18:16:34",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV SECTOR 1-4 HBC",
+    "area": "Sector 1",
+    "start_time": "21-Jun-2026 14:16:34",
+    "expected_restoration_time": "21-Jun-2026 18:16:34",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV SECTOR 1-4 HBC",
+    "area": "Sector 1 and 4",
+    "start_time": "21-Jun-2026 14:16:34",
+    "expected_restoration_time": "21-Jun-2026 18:16:34",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV Mahavir colony Old W/W",
+    "area": "Roop Nagar",
+    "start_time": "21-Jun-2026 14:15:07",
+    "expected_restoration_time": "21-Jun-2026 18:15:07",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV Mahavir colony Old W/W",
+    "area": "Shiv Chowk",
+    "start_time": "21-Jun-2026 14:15:07",
+    "expected_restoration_time": "21-Jun-2026 18:15:07",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV Mahavir colony Old W/W",
+    "area": "Mahabir colony",
+    "start_time": "21-Jun-2026 14:15:07",
+    "expected_restoration_time": "21-Jun-2026 18:15:07",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV Mahavir colony Old W/W",
+    "area": "Mahaveer Colony Water Works",
+    "start_time": "21-Jun-2026 14:15:07",
+    "expected_restoration_time": "21-Jun-2026 18:15:07",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
+  },
+  {
+    "feeder": "11 KV Mahavir colony Old W/W",
+    "area": "Rajiv Nagar",
+    "start_time": "21-Jun-2026 14:15:07",
+    "expected_restoration_time": "21-Jun-2026 18:15:07",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/21/2026, 3:00:00 PM (IST)",
+    "last_seen_at": "6/21/2026, 3:00:00 PM (IST)",
+    "timestamp": 1782054000000
   }
 ]
