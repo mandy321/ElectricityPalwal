@@ -3926,7 +3926,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/22/2026, 1:39:41 AM (IST)",
-    "last_seen_at": "6/22/2026, 3:18:02 AM (IST)",
+    "last_seen_at": "6/22/2026, 4:50:24 AM (IST)",
     "timestamp": 1782092381000
   },
   {
@@ -3936,7 +3936,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/22/2026, 1:39:41 AM (IST)",
-    "last_seen_at": "6/22/2026, 3:18:02 AM (IST)",
+    "last_seen_at": "6/22/2026, 4:50:24 AM (IST)",
     "timestamp": 1782092381000
   },
   {
@@ -3946,7 +3946,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/22/2026, 3:18:02 AM (IST)",
-    "last_seen_at": "6/22/2026, 3:18:02 AM (IST)",
+    "last_seen_at": "6/22/2026, 4:50:24 AM (IST)",
     "timestamp": 1782098282000
   },
   {
@@ -3956,7 +3956,27 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/22/2026, 3:18:02 AM (IST)",
-    "last_seen_at": "6/22/2026, 3:18:02 AM (IST)",
+    "last_seen_at": "6/22/2026, 4:50:24 AM (IST)",
     "timestamp": 1782098282000
+  },
+  {
+    "feeder": "RAMALWAS AP",
+    "area": "Ramalwas",
+    "start_time": "22-Jun-2026 04:50:01",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 4:50:24 AM (IST)",
+    "last_seen_at": "6/22/2026, 4:50:24 AM (IST)",
+    "timestamp": 1782103824000
+  },
+  {
+    "feeder": "KUBJA NAGAR-I AP",
+    "area": "Kubja Nager Ap",
+    "start_time": "22-Jun-2026 03:30:52",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 4:50:24 AM (IST)",
+    "last_seen_at": "6/22/2026, 4:50:24 AM (IST)",
+    "timestamp": 1782103824000
   }
 ]
