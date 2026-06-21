@@ -950,7 +950,7 @@ window.handleLiveRefresh = async function(targetDistrictId) {
     // 6. Update timestamp UI and in-memory date
     const now = new Date();
     outagesData.last_updated = now.toISOString();
-    lastUpdatedTime.textContent = "Refreshed Live: " + now.toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
+    lastUpdatedTime.innerHTML = `<i class="fa-regular fa-clock"></i> Data last updated: ${getLastUpdatedText()}`;
     
     // 7. Update UI view panels
     if (currentDistrictId === districtId) {
