@@ -2416,7 +2416,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/22/2026, 1:39:17 AM (IST)",
-    "last_seen_at": "6/22/2026, 1:39:17 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
     "timestamp": 1782092357000
   },
   {
@@ -2438,5 +2438,215 @@
     "scraped_at": "6/22/2026, 1:39:17 AM (IST)",
     "last_seen_at": "6/22/2026, 1:39:17 AM (IST)",
     "timestamp": 1782092357000
+  },
+  {
+    "feeder": "DHANAWAS AP",
+    "area": "Hamirpur",
+    "start_time": "22-Jun-2026 02:10:38",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "JUDOLA AP",
+    "area": "Khuram Pur",
+    "start_time": "22-Jun-2026 02:10:28",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "KAROLA AP",
+    "area": "Garhi Nathe Khan",
+    "start_time": "22-Jun-2026 02:11:18",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "KAROLA AP",
+    "area": "Khera Khurampur Road",
+    "start_time": "22-Jun-2026 02:11:18",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Daboda",
+    "start_time": "22-Jun-2026 02:11:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Jai Hind Ki Dhani",
+    "start_time": "22-Jun-2026 02:11:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Ramji Lal Ki Dhani",
+    "start_time": "22-Jun-2026 02:11:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Joniyawas",
+    "start_time": "22-Jun-2026 02:11:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "MUSHED PUR AP",
+    "area": "Musedpur",
+    "start_time": "22-Jun-2026 02:11:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "GANESH MARKET (U)",
+    "area": "Shish Mahal",
+    "start_time": "22-Jun-2026 03:04:22",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "GANESH MARKET (U)",
+    "area": "Crusher Zone Jhajjar Road",
+    "start_time": "22-Jun-2026 03:04:22",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "GANESH MARKET (U)",
+    "area": "Warehouses",
+    "start_time": "22-Jun-2026 03:04:22",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "GARHI AP",
+    "area": "Subhe Ki Dhani",
+    "start_time": "22-Jun-2026 02:10:31",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Siwari Dhani",
+    "start_time": "22-Jun-2026 02:10:54",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Sewari",
+    "start_time": "22-Jun-2026 02:10:54",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Karola",
+    "start_time": "22-Jun-2026 02:10:54",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Khera Khurampur Road",
+    "start_time": "22-Jun-2026 02:10:54",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Musidpur",
+    "start_time": "22-Jun-2026 02:10:54",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Palri",
+    "start_time": "22-Jun-2026 02:10:54",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Musedpur",
+    "start_time": "22-Jun-2026 02:10:54",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
+  },
+  {
+    "feeder": "PATLI AP",
+    "area": "Patli",
+    "start_time": "22-Jun-2026 02:10:32",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:17:38 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:17:38 AM (IST)",
+    "timestamp": 1782098258000
   }
 ]

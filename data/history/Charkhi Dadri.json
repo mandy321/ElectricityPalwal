@@ -3926,7 +3926,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/22/2026, 1:39:41 AM (IST)",
-    "last_seen_at": "6/22/2026, 1:39:41 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:18:02 AM (IST)",
     "timestamp": 1782092381000
   },
   {
@@ -3936,7 +3936,27 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/22/2026, 1:39:41 AM (IST)",
-    "last_seen_at": "6/22/2026, 1:39:41 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:18:02 AM (IST)",
     "timestamp": 1782092381000
+  },
+  {
+    "feeder": "BIRHI KALAN DS",
+    "area": "Birhi khurd",
+    "start_time": "22-Jun-2026 01:51:35",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:18:02 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:18:02 AM (IST)",
+    "timestamp": 1782098282000
+  },
+  {
+    "feeder": "NORANGABASS AP",
+    "area": "Norangabass Khudana Ap",
+    "start_time": "22-Jun-2026 02:49:16",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 3:18:02 AM (IST)",
+    "last_seen_at": "6/22/2026, 3:18:02 AM (IST)",
+    "timestamp": 1782098282000
   }
 ]
