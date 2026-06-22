@@ -2838,5 +2838,395 @@
     "scraped_at": "6/22/2026, 7:15:53 AM (IST)",
     "last_seen_at": "6/22/2026, 7:15:53 AM (IST)",
     "timestamp": 1782112553000
+  },
+  {
+    "feeder": "BILASPUR AP",
+    "area": "Bilaspur",
+    "start_time": "22-Jun-2026 12:56:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SIHI (MU)",
+    "area": "Sihi",
+    "start_time": "22-Jun-2026 12:29:14",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "B/KALAN  AP",
+    "area": "Bhora Kalan",
+    "start_time": "22-Jun-2026 12:21:28",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "BASLAMBI DS",
+    "area": "Baslambi",
+    "start_time": "22-Jun-2026 11:58:20",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "BAWLA AP",
+    "area": "Nanuka",
+    "start_time": "22-Jun-2026 12:33:26",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "ANSAL (U)",
+    "area": "Ansal Arravali Retreat",
+    "start_time": "22-Jun-2026 12:50:15",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "ANSAL (U)",
+    "area": "Sector 67",
+    "start_time": "22-Jun-2026 12:50:15",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "ANSAL (U)",
+    "area": "Ansal",
+    "start_time": "22-Jun-2026 12:50:15",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "HAZIPUR RDS",
+    "area": "Hazipur",
+    "start_time": "22-Jun-2026 12:50:29",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "KHARKHARI AP",
+    "area": "Kharkhari",
+    "start_time": "22-Jun-2026 11:58:24",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SIKANDERPUR DS",
+    "area": "Sector 85 S S Group",
+    "start_time": "22-Jun-2026 12:51:32",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SIKANDERPUR DS",
+    "area": "Sikenderpur Badha",
+    "start_time": "22-Jun-2026 12:51:32",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Joniyawas",
+    "start_time": "22-Jun-2026 12:53:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Daboda",
+    "start_time": "22-Jun-2026 12:53:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Jai Hind Ki Dhani",
+    "start_time": "22-Jun-2026 12:53:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "DABODA AP",
+    "area": "Ramji Lal Ki Dhani",
+    "start_time": "22-Jun-2026 12:53:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "WAZIRPUR DS",
+    "area": "Bhagrola Village",
+    "start_time": "22-Jun-2026 11:54:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "KABARCHA DS",
+    "area": "Udyog Vihar Phase 4",
+    "start_time": "22-Jun-2026 12:53:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SCP OLD DLF (U)",
+    "area": "Old Dlf",
+    "start_time": "22-Jun-2026 12:45:00",
+    "expected_restoration_time": "22-Jun-2026 13:30:00",
+    "remarks": "HT JUMPER BROKEN",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SCP OLD DLF (U)",
+    "area": "Old Delhi Road",
+    "start_time": "22-Jun-2026 12:45:00",
+    "expected_restoration_time": "22-Jun-2026 13:30:00",
+    "remarks": "HT JUMPER BROKEN",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Karola",
+    "start_time": "22-Jun-2026 12:57:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Khera Khurampur Road",
+    "start_time": "22-Jun-2026 12:57:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Palri",
+    "start_time": "22-Jun-2026 12:57:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Musidpur",
+    "start_time": "22-Jun-2026 12:57:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Musedpur",
+    "start_time": "22-Jun-2026 12:57:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Siwari Dhani",
+    "start_time": "22-Jun-2026 12:57:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "SEWARI AP",
+    "area": "Sewari",
+    "start_time": "22-Jun-2026 12:57:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "HARSARU DS",
+    "area": "Chokar Ki Dhani",
+    "start_time": "22-Jun-2026 12:08:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "HARSARU DS",
+    "area": "Village Bada",
+    "start_time": "22-Jun-2026 12:08:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "HARSARU DS",
+    "area": "Bamdoli",
+    "start_time": "22-Jun-2026 12:08:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "HARSARU DS",
+    "area": "Sector 86",
+    "start_time": "22-Jun-2026 12:08:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "HARSARU DS",
+    "area": "Salak Ki Dhani",
+    "start_time": "22-Jun-2026 12:08:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "B/KHURD DS",
+    "area": "Bhora Khurd",
+    "start_time": "22-Jun-2026 12:52:48",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "RITHOJ DS",
+    "area": "Nayagaon",
+    "start_time": "22-Jun-2026 12:36:00",
+    "expected_restoration_time": "22-Jun-2026 14:00:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "RITHOJ DS",
+    "area": "Dhumaspur",
+    "start_time": "22-Jun-2026 12:36:00",
+    "expected_restoration_time": "22-Jun-2026 14:00:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "RITHOJ DS",
+    "area": "Behalpa",
+    "start_time": "22-Jun-2026 12:36:00",
+    "expected_restoration_time": "22-Jun-2026 14:00:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "RITHOJ DS",
+    "area": "Rithoj",
+    "start_time": "22-Jun-2026 12:36:00",
+    "expected_restoration_time": "22-Jun-2026 14:00:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "RITHOJ DS",
+    "area": "Sehjawas",
+    "start_time": "22-Jun-2026 12:36:00",
+    "expected_restoration_time": "22-Jun-2026 14:00:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
+  },
+  {
+    "feeder": "RITHOJ DS",
+    "area": "Behlpa",
+    "start_time": "22-Jun-2026 12:36:00",
+    "expected_restoration_time": "22-Jun-2026 14:00:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 1:00:21 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:21 PM (IST)",
+    "timestamp": 1782133221000
   }
 ]

@@ -4438,5 +4438,135 @@
     "scraped_at": "6/22/2026, 7:16:18 AM (IST)",
     "last_seen_at": "6/22/2026, 7:16:18 AM (IST)",
     "timestamp": 1782112578000
+  },
+  {
+    "feeder": "IND P.H 1 TO 5 KADMA",
+    "area": "P H No 1 To 5",
+    "start_time": "22-Jun-2026 11:43:00",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "BIJNA AP",
+    "area": "Bijana Ap",
+    "start_time": "22-Jun-2026 11:03:00",
+    "expected_restoration_time": "22-Jun-2026 15:00:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "BIRHI KALAN DS",
+    "area": "Birhi khurd",
+    "start_time": "22-Jun-2026 11:59:39",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "ACHINA DS",
+    "area": "Village Acheena",
+    "start_time": "22-Jun-2026 12:32:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "ACHINA DS",
+    "area": "Achina",
+    "start_time": "22-Jun-2026 12:32:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "ACHINA DS",
+    "area": "Bhageshwari",
+    "start_time": "22-Jun-2026 12:32:40",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "KAKROLI HATI DS",
+    "area": "Kakroli Hukmi",
+    "start_time": "22-Jun-2026 12:13:14",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "KAKROLI HATI DS",
+    "area": "Kakroli",
+    "start_time": "22-Jun-2026 12:13:14",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "KAKROLI HATI DS",
+    "area": "Kakroli Sardara",
+    "start_time": "22-Jun-2026 12:13:14",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "KAKROLI HATI DS",
+    "area": "Kakroli Hatti",
+    "start_time": "22-Jun-2026 12:13:14",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "PICHOPA KALAN  AP",
+    "area": "Pichopa Ap",
+    "start_time": "22-Jun-2026 12:54:51",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "PATUWAS DS",
+    "area": "Patuwas",
+    "start_time": "22-Jun-2026 11:56:19",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
+  },
+  {
+    "feeder": "PATUWAS DS",
+    "area": "Tikan Kalan",
+    "start_time": "22-Jun-2026 11:56:19",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/22/2026, 1:00:45 PM (IST)",
+    "last_seen_at": "6/22/2026, 1:00:45 PM (IST)",
+    "timestamp": 1782133245000
   }
 ]
