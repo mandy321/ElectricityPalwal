@@ -8,6 +8,10 @@ let currentSeverityFilter = "all";
 let currentViewTab = "live";
 let districtHistoryData = null;
 let outageTrendChartInstance = null;
+let feederMasterData = null;
+let currentDistrictHistory = [];
+
+
 
 let userLocalityData = {
   district: "",
@@ -108,6 +112,18 @@ const districtStatusHeader = document.getElementById('districtStatusHeader');
 const districtStatusBadge = document.getElementById('districtStatusBadge');
 const statusFeedersDown = document.getElementById('statusFeedersDown');
 const statusAreasAffected = document.getElementById('statusAreasAffected');
+const statusPercentUp = document.getElementById('statusPercentUp');
+const healthPercentText = document.getElementById('healthPercentText');
+const districtHealthBar = document.getElementById('districtHealthBar');
+const statAvgFixTime = document.getElementById('statAvgFixTime');
+const statArtGlow = document.getElementById('statArtGlow');
+const leaderboardContent = document.getElementById('leaderboardContent');
+const mapContainer = document.getElementById('mapContainer');
+const mapTooltip = document.getElementById('mapTooltip');
+const monthlyReportSelect = document.getElementById('monthlyReportSelect');
+
+
+
 
 // View Tabs Elements
 const tabNavigationSection = document.getElementById('tabNavigationSection');
@@ -142,10 +158,30 @@ async function initApp() {
     }
     outagesData = await response.json();
     
+    // Fetch feeder master baseline data
+    try {
+      const masterRes = await fetch('data/feeder_master.json');
+      if (masterRes.ok) {
+        feederMasterData = await masterRes.json();
+      }
+    } catch (err) {
+      console.warn('Failed to load feeder master baseline:', err);
+    }
+
+    
     // Set last updated time
     if (outagesData.last_updated) {
       lastUpdatedTime.textContent = getLastUpdatedText();
     }
+    
+    // Fetch and inject SVG Map
+    await loadSVGMap();
+    
+    // Color-code the map
+    colorSVGMap();
+    
+    // Load monthly reports dropdown
+    await loadMonthlyReportsList();
     
     showLoader(false);
     
@@ -154,6 +190,7 @@ async function initApp() {
     searchInput.addEventListener('input', handleSearch);
     locateBtn.addEventListener('click', handleGeolocation);
     refreshBtn.addEventListener('click', handleLiveRefresh);
+
     
     // Setup history/tab listeners
     tabLive.addEventListener('click', () => switchTab('live'));
@@ -319,10 +356,12 @@ function renderSharedArea() {
       <div class="shared-card-header">
         <h3><i class="fa-solid fa-share-nodes" style="color: var(--primary-color);"></i> Shared Locality Status</h3>
         <div style="display: flex; gap: 12px; align-items: center;">
+          <button class="btn-refresh" style="background:rgba(245,158,11,0.15); border:1px solid rgba(245,158,11,0.3); color:var(--warning-color); cursor:pointer; display:flex; align-items:center; gap:4px; padding: 4px 8px; border-radius:6px; font-size:12px;" onclick="subscribeToAlerts('${sharedArea.districtName}', '${sharedArea.feeder}', '${sharedArea.area}')" title="Get live push alerts"><i class="fa-solid fa-bell"></i> Get Alerts</button>
           <button class="btn-refresh shared-refresh-btn" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="handleLiveRefresh('${sharedArea.districtId}')" title="Refresh live status"><i class="fa-solid fa-rotate"></i> Refresh</button>
           <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer;" onclick="dismissSharedArea()"><i class="fa-solid fa-xmark"></i> Dismiss</button>
         </div>
       </div>
+
       <div class="shared-card-body">
         <div class="shared-item" style="grid-column: 1 / -1; display:flex; flex-direction:column; gap: 8px;">
           <div style="display:flex; align-items:center; gap: 14px;">
@@ -453,11 +492,13 @@ function renderPinnedArea() {
       <div class="pinned-card-header">
         <h3><i class="fa-solid fa-star" style="color: var(--warning-color);"></i> Pinned Locality</h3>
         <div style="display: flex; gap: 12px; align-items: center;">
+          <button class="btn-refresh" style="background:rgba(245,158,11,0.15); border:1px solid rgba(245,158,11,0.3); color:var(--warning-color); cursor:pointer; display:flex; align-items:center; gap:4px; padding: 4px 8px; border-radius:6px; font-size:12px;" onclick="subscribeToAlerts('${pinnedArea.districtName}', '${pinnedArea.feeder}', '${pinnedArea.area}')" title="Get live push alerts"><i class="fa-solid fa-bell"></i> Get Alerts</button>
           <button class="btn-refresh pinned-refresh-btn" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="handleLiveRefresh('${pinnedArea.districtId}')" title="Refresh live status"><i class="fa-solid fa-rotate"></i> Refresh</button>
           <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="shareArea('${pinnedArea.districtId}', '${pinnedArea.districtName}', '${pinnedArea.feeder}', '${pinnedArea.area}')" title="Share live status link"><i class="fa-solid fa-share-nodes"></i> Share</button>
           <button class="btn-refresh" style="background:none; border:none; color:var(--text-dim); cursor:pointer; display:flex; align-items:center; gap:4px;" onclick="unpinArea()"><i class="fa-solid fa-trash-can"></i> Unpin</button>
         </div>
       </div>
+
       <div class="pinned-card-body">
         <div class="pinned-item" style="grid-column: 1 / -1; display:flex; flex-direction:column; gap: 8px;">
           <div style="display:flex; align-items:center; gap: 14px;">
@@ -493,6 +534,20 @@ function selectDistrict(districtId) {
   currentDistrictNameSpan.textContent = currentDistrictName;
   if (historyDistrictName) historyDistrictName.textContent = currentDistrictName;
   
+  // Highlight map district selected state
+  if (mapContainer) {
+    const districts = mapContainer.querySelectorAll('.map-district');
+    districts.forEach(dist => {
+      const distName = dist.getAttribute('data-district');
+      if (distName === currentDistrictName) {
+        dist.classList.add('selected');
+      } else {
+        dist.classList.remove('selected');
+      }
+    });
+  }
+
+  
   // Clear search and enable buttons
   searchInput.value = "";
   if (historySearchInput) historySearchInput.value = "";
@@ -507,6 +562,9 @@ function selectDistrict(districtId) {
   renderPinnedArea();
   renderSharedArea();
   
+  // Fetch history for stats in background
+  fetchDistrictHistoryForStats(currentDistrictName);
+  
   // Sync tab status and render
   switchTab(currentViewTab);
   
@@ -514,6 +572,7 @@ function selectDistrict(districtId) {
   // the latest restoration times, even if the cached JSON is from an earlier scrape.
   autoRefreshDistrict(districtId);
 }
+
 
 // Silent background auto-refresh — does not touch the Refresh button UI state
 async function autoRefreshDistrict(districtId) {
@@ -597,7 +656,8 @@ function updateStats() {
   const total = activeList.length;
   let planned = 0;
   let active = 0;
-  const uniqueFeeders = new Set();
+  const uniqueActiveFeeders = new Set();
+  const uniqueActiveAreas = new Set();
   
   activeList.forEach(item => {
     const remarks = (item.remarks || '').toUpperCase();
@@ -607,7 +667,10 @@ function updateStats() {
       active++;
     }
     if (item.feeder) {
-      uniqueFeeders.add(item.feeder.trim().toUpperCase());
+      uniqueActiveFeeders.add(item.feeder.trim().toUpperCase());
+    }
+    if (item.area) {
+      uniqueActiveAreas.add(item.area.trim().toUpperCase());
     }
   });
   
@@ -615,11 +678,64 @@ function updateStats() {
   statActive.textContent = active;
   statPlanned.textContent = planned;
   
-  // Update Status Banner
+  // 1. Get baseline (Method 2: master list)
+  const masterFeeders = (feederMasterData && feederMasterData[currentDistrictName]?.feeders) || [];
+  const masterAreas = (feederMasterData && feederMasterData[currentDistrictName]?.areas) || [];
+  
+  const baselineFeeders = new Set(masterFeeders.map(f => f.trim().toUpperCase()));
+  const baselineAreas = new Set(masterAreas.map(a => a.trim().toUpperCase()));
+  
+  // 2. Dynamic expansion (Method 1: fallbacks for new/commissioned feeders or areas)
+  uniqueActiveFeeders.forEach(f => baselineFeeders.add(f));
+  uniqueActiveAreas.forEach(a => baselineAreas.add(a));
+  
+  const totalFeedersCount = baselineFeeders.size || 1; // avoid division by zero
+  const totalAreasCount = baselineAreas.size || 1;
+  
+  // 3. Compute Percentages
+  const percentFeedersDown = ((uniqueActiveFeeders.size / totalFeedersCount) * 100);
+  const percentFeedersUp = 100 - percentFeedersDown;
+  
+  const percentAreasDown = ((uniqueActiveAreas.size / totalAreasCount) * 100);
+  const percentAreasUp = 100 - percentAreasDown;
+  
+  const percentAreasUpStr = percentAreasUp.toFixed(1);
+  const percentAreasDownStr = percentAreasDown.toFixed(1);
+  
+  // Update Status Banner elements
   if (districtStatusHeader) {
     districtStatusHeader.classList.remove('hidden');
-    statusFeedersDown.textContent = uniqueFeeders.size;
+    statusFeedersDown.textContent = uniqueActiveFeeders.size;
     statusAreasAffected.textContent = total;
+    if (statusPercentUp) {
+      statusPercentUp.textContent = `${percentAreasUpStr}%`;
+    }
+    
+    if (healthPercentText) {
+      healthPercentText.textContent = `${percentAreasUpStr}% Power Up`;
+      
+      // Color coding text dynamically
+      if (percentAreasUp >= 95) {
+        healthPercentText.style.color = 'var(--success-color)';
+      } else if (percentAreasUp >= 85) {
+        healthPercentText.style.color = 'var(--warning-color)';
+      } else {
+        healthPercentText.style.color = 'var(--danger-color)';
+      }
+    }
+    
+    if (districtHealthBar) {
+      districtHealthBar.style.width = `${percentAreasUpStr}%`;
+      
+      // Color coding progress bar dynamically
+      if (percentAreasUp >= 95) {
+        districtHealthBar.style.background = 'linear-gradient(90deg, var(--success-color), #34d399)';
+      } else if (percentAreasUp >= 85) {
+        districtHealthBar.style.background = 'linear-gradient(90deg, var(--warning-color), #fbbf24)';
+      } else {
+        districtHealthBar.style.background = 'linear-gradient(90deg, var(--danger-color), #f43f5e)';
+      }
+    }
     
     if (total > 0) {
       districtStatusBadge.textContent = "ACTIVE";
@@ -630,6 +746,7 @@ function updateStats() {
     }
   }
 }
+
 
 // Render Outages List & Setup Pins
 function renderOutages() {
@@ -1117,6 +1234,127 @@ function switchTab(tab) {
   }
 }
 
+async function fetchDistrictHistoryForStats(districtName) {
+  if (!districtName) return;
+  try {
+    const res = await fetch(`data/history/${encodeURIComponent(districtName)}.json`);
+    if (res.ok) {
+      currentDistrictHistory = await res.json();
+    } else {
+      currentDistrictHistory = [];
+    }
+  } catch (err) {
+    console.warn('Failed to load district history for stats:', err);
+    currentDistrictHistory = [];
+  }
+  updateArtAndLeaderboard();
+}
+
+function updateArtAndLeaderboard() {
+  if (!currentDistrictHistory || currentDistrictHistory.length === 0) {
+    if (statAvgFixTime) statAvgFixTime.textContent = "--";
+    if (statArtGlow) {
+      statArtGlow.className = "stat-icon-wrapper green-glow";
+    }
+    if (leaderboardContent) {
+      leaderboardContent.innerHTML = `<p style="color: var(--text-dim); text-align: center; padding: 16px;">No historical data available.</p>`;
+    }
+    return;
+  }
+
+  const nowTime = Date.now();
+  const sevenDaysAgo = nowTime - (7 * 24 * 60 * 60 * 1000);
+  const fourteenDaysAgo = nowTime - (14 * 24 * 60 * 60 * 1000);
+
+  // 1. Calculate Average Restoration Time (ART) over the last 7 days
+  let totalDurationMs = 0;
+  let validOutageCount = 0;
+
+  currentDistrictHistory.forEach(item => {
+    const timestamp = item.timestamp || (item.start_time ? parseDHBVNDate(item.start_time)?.getTime() : null);
+    if (!timestamp || timestamp < sevenDaysAgo) return;
+
+    if (item.start_time && item.expected_restoration_time) {
+      const start = parseDHBVNDate(item.start_time);
+      const end = parseDHBVNDate(item.expected_restoration_time);
+      if (start && end) {
+        const diff = end.getTime() - start.getTime();
+        // filter out anomalous durations (under 1 min or over 24 hours)
+        if (diff > 60 * 1000 && diff < 24 * 60 * 60 * 1000) {
+          totalDurationMs += diff;
+          validOutageCount++;
+        }
+      }
+    }
+  });
+
+  if (validOutageCount > 0) {
+    const avgHours = (totalDurationMs / validOutageCount) / (1000 * 60 * 60);
+    if (statAvgFixTime) {
+      statAvgFixTime.textContent = `${avgHours.toFixed(1)} hrs`;
+    }
+
+    // Color code: Green (< 2 hrs), Amber (2-4 hrs), Red (> 4 hrs)
+    if (statArtGlow) {
+      if (avgHours < 2) {
+        statArtGlow.className = "stat-icon-wrapper green-glow";
+      } else if (avgHours <= 4) {
+        statArtGlow.className = "stat-icon-wrapper orange-glow";
+      } else {
+        statArtGlow.className = "stat-icon-wrapper red-glow";
+      }
+    }
+  } else {
+    if (statAvgFixTime) {
+      statAvgFixTime.textContent = "--";
+    }
+    if (statArtGlow) {
+      statArtGlow.className = "stat-icon-wrapper green-glow";
+    }
+  }
+
+  // 2. Hotspot Feeder Leaderboard (last 14 days)
+  const feederCounts = {};
+  currentDistrictHistory.forEach(item => {
+    const timestamp = item.timestamp || (item.start_time ? parseDHBVNDate(item.start_time)?.getTime() : null);
+    if (!timestamp || timestamp < fourteenDaysAgo) return;
+
+    if (item.feeder) {
+      const feederName = item.feeder.trim();
+      feederCounts[feederName] = (feederCounts[feederName] || 0) + 1;
+    }
+  });
+
+  const sortedFeeders = Object.entries(feederCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5);
+
+  if (sortedFeeders.length === 0) {
+    if (leaderboardContent) {
+      leaderboardContent.innerHTML = `<p style="color: var(--text-dim); text-align: center; padding: 16px;">No outages recorded in the last 14 days.</p>`;
+    }
+  } else {
+    if (leaderboardContent) {
+      let html = `<div class="leaderboard-list">`;
+      sortedFeeders.forEach(([feeder, count], index) => {
+        const rank = index + 1;
+        const rankDisplay = rank === 1 ? `<i class="fa-solid fa-trophy"></i>` : `#${rank}`;
+        html += `
+          <div class="leaderboard-item">
+            <div class="leaderboard-feeder-info">
+              <span class="leaderboard-rank">${rankDisplay}</span>
+              <span class="leaderboard-feeder-name" title="${feeder}">${feeder}</span>
+            </div>
+            <span class="leaderboard-count-badge">${count} outages</span>
+          </div>
+        `;
+      });
+      html += `</div>`;
+      leaderboardContent.innerHTML = html;
+    }
+  }
+}
+
 async function loadHistory() {
   if (!currentDistrictName) return;
   
@@ -1126,12 +1364,17 @@ async function loadHistory() {
   historyTable.parentElement.classList.remove('hidden');
   
   try {
-    const res = await fetch(`data/history/${encodeURIComponent(currentDistrictName)}.json`);
-    if (!res.ok) {
-      throw new Error("No history file found");
+    // Reuse background fetched history if present
+    if (currentDistrictHistory && currentDistrictHistory.length > 0) {
+      districtHistoryData = [...currentDistrictHistory];
+    } else {
+      const res = await fetch(`data/history/${encodeURIComponent(currentDistrictName)}.json`);
+      if (!res.ok) {
+        throw new Error("No history file found");
+      }
+      districtHistoryData = await res.json();
+      currentDistrictHistory = [...districtHistoryData];
     }
-    
-    districtHistoryData = await res.json();
     
     // Sort history by scraped_at / timestamp descending
     districtHistoryData.sort((a, b) => {
@@ -1142,6 +1385,7 @@ async function loadHistory() {
     
     renderHistory();
     renderOutageChart(districtHistoryData);
+    updateArtAndLeaderboard();
   } catch (err) {
     console.log("History fetch failed:", err);
     districtHistoryData = [];
@@ -1149,6 +1393,7 @@ async function loadHistory() {
     renderOutageChart(districtHistoryData);
   }
 }
+
 
 function renderHistory() {
   const searchTerm = historySearchInput.value.toLowerCase().trim();
@@ -1410,3 +1655,189 @@ function renderOutageChart(historyData) {
     }
   });
 }
+
+// -----------------------------------------------------------------------------
+// Interactive SVG Map Loading & Event Wire-up
+// -----------------------------------------------------------------------------
+async function loadSVGMap() {
+  if (!mapContainer) return;
+  try {
+    const res = await fetch('assets/haryana_districts.svg');
+    if (!res.ok) throw new Error('SVG map file not found.');
+    const svgText = await res.text();
+    mapContainer.innerHTML = svgText;
+    
+    // Wire up events on the newly injected elements
+    const districts = mapContainer.querySelectorAll('.map-district');
+    districts.forEach(dist => {
+      const distName = dist.getAttribute('data-district');
+      
+      // Hover event listeners
+      dist.addEventListener('mousemove', (e) => {
+        showMapTooltip(e, distName);
+      });
+      dist.addEventListener('mouseleave', hideMapTooltip);
+      
+      // Click event listener
+      dist.addEventListener('click', () => {
+        const distId = DISTRICT_NAME_TO_ID[distName];
+        if (distId) {
+          selectDistrict(distId);
+        } else {
+          // Panchkula/Ambala/etc. (non-DHBVN districts served by UHBVN)
+          alert(`${distName} is served by UHBVN, not DHBVN. This dashboard only covers Dakshin Haryana (DHBVN) districts.`);
+        }
+      });
+    });
+  } catch (err) {
+    console.error('Failed to load interactive SVG map:', err);
+    mapContainer.innerHTML = `
+      <div class="map-loading" style="color: var(--text-dim); text-align: center;">
+        <i class="fa-solid fa-triangle-exclamation" style="font-size: 24px; color: var(--danger-color); margin-bottom: 8px;"></i>
+        <span>Failed to load map. Please select district from dropdown.</span>
+      </div>
+    `;
+  }
+}
+
+function showMapTooltip(e, districtName) {
+  if (!mapTooltip || !outagesData) return;
+  
+  const list = outagesData.districts[districtName] || [];
+  
+  // Calculate active outages in district
+  const nowISTStr = new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' });
+  const nowIST = new Date(nowISTStr);
+  const nowTime = nowIST.getTime();
+  const activeCuts = list.filter(item => {
+    const end = parseDHBVNDate(item.expected_restoration_time);
+    return !end || end.getTime() >= nowTime;
+  });
+  
+  const outageCount = activeCuts.length;
+  
+  let statusHTML = '';
+  
+  // Is this district supported by DHBVN?
+  const isDHBVN = DISTRICT_NAME_TO_ID[districtName] !== undefined;
+  
+  if (!isDHBVN) {
+    statusHTML = `<span class="status" style="color: var(--text-dim);"><i class="fa-solid fa-circle-minus"></i> Non-DHBVN (UHBVN)</span>`;
+  } else if (outageCount === 0) {
+    statusHTML = `<span class="status" style="color: var(--success-color);"><i class="fa-solid fa-circle-check"></i> All Clear</span>`;
+  } else {
+    const colorClass = outageCount > 5 ? 'level-major' : 'level-minor';
+    const statusColor = colorClass === 'level-major' ? 'var(--danger-color)' : 'var(--warning-color)';
+    const statusIcon = colorClass === 'level-major' ? 'fa-triangle-exclamation' : 'fa-circle-exclamation';
+    statusHTML = `<span class="status" style="color: ${statusColor};"><i class="fa-solid ${statusIcon}"></i> ${outageCount} Active Outage${outageCount > 1 ? 's' : ''}</span>`;
+  }
+  
+  mapTooltip.style.display = 'block';
+  mapTooltip.innerHTML = `
+    <strong>${districtName}</strong>
+    ${statusHTML}
+  `;
+  
+  // Position the tooltip near the cursor
+  const tooltipHeight = mapTooltip.offsetHeight || 40;
+  mapTooltip.style.left = `${e.pageX + 12}px`;
+  mapTooltip.style.top = `${e.pageY - tooltipHeight - 12}px`;
+}
+
+function hideMapTooltip() {
+  if (mapTooltip) {
+    mapTooltip.style.display = 'none';
+  }
+}
+
+function colorSVGMap() {
+  if (!mapContainer || !outagesData) return;
+  const districts = mapContainer.querySelectorAll('.map-district');
+  districts.forEach(dist => {
+    const distName = dist.getAttribute('data-district');
+    const isDHBVN = DISTRICT_NAME_TO_ID[distName] !== undefined;
+    
+    // Clear previous classes
+    dist.classList.remove('level-clear', 'level-minor', 'level-major', 'disabled');
+    
+    if (!isDHBVN) {
+      dist.classList.add('disabled');
+      dist.style.opacity = '0.35';
+      dist.style.cursor = 'not-allowed';
+      return;
+    }
+    
+    const list = outagesData.districts[distName] || [];
+    const nowISTStr = new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' });
+    const nowIST = new Date(nowISTStr);
+    const nowTime = nowIST.getTime();
+    const activeCuts = list.filter(item => {
+      const end = parseDHBVNDate(item.expected_restoration_time);
+      return !end || end.getTime() >= nowTime;
+    });
+    
+    const count = activeCuts.length;
+    if (count === 0) {
+      dist.classList.add('level-clear');
+    } else if (count <= 5) {
+      dist.classList.add('level-minor');
+    } else {
+      dist.classList.add('level-major');
+    }
+    
+    // Sync with currently selected district
+    if (distName === currentDistrictName) {
+      dist.classList.add('selected');
+    }
+  });
+}
+
+// -----------------------------------------------------------------------------
+// Monthly reports selector initialization
+// -----------------------------------------------------------------------------
+async function loadMonthlyReportsList() {
+  if (!monthlyReportSelect) return;
+  try {
+    const res = await fetch('reports/manifest.json');
+    if (!res.ok) return;
+    const manifest = await res.json();
+    
+    // Clear dropdown and set placeholder
+    monthlyReportSelect.innerHTML = '<option value="" disabled selected>Monthly Report...</option>';
+    
+    // Populate options from manifest in reverse chronological order
+    const sorted = [...manifest].reverse();
+    sorted.forEach(report => {
+      const opt = document.createElement('option');
+      opt.value = report.url;
+      opt.textContent = report.name;
+      monthlyReportSelect.appendChild(opt);
+    });
+    
+    monthlyReportSelect.addEventListener('change', (e) => {
+      const url = e.target.value;
+      if (url) {
+        window.open(url, '_blank');
+        monthlyReportSelect.value = ""; // Reset
+      }
+    });
+  } catch (err) {
+    console.warn('Failed to load monthly reports manifest:', err);
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Browser Push Alerts Subscriptions (ntfy.sh Topic Routing)
+// -----------------------------------------------------------------------------
+window.subscribeToAlerts = function(districtName, feeder, area) {
+  const cleanDist = districtName.toLowerCase().replace(/\s+/g, '_');
+  const topic = `dhbvn_outages_${cleanDist}`;
+  const filterQuery = encodeURIComponent(area);
+  const ntfyUrl = `https://ntfy.sh/${topic}?subscribe=1&filter=${filterQuery}`;
+  
+  const msg = `We use ntfy.sh (a free, open-source notification service) to deliver live push notifications.\n\nClicking OK will open ntfy.sh where you can subscribe to alerts specifically filtered for "${area}" in one click.`;
+  if (confirm(msg)) {
+    window.open(ntfyUrl, '_blank');
+  }
+};
+

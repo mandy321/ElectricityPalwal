@@ -59,35 +59,45 @@
       <!-- Top Control Section -->
       <section class="control-panel glass-card">
         <h2>Find Your Outages</h2>
-        <p class="description">Select your district manually or use your current location to automatically check for power cuts in your locality.</p>
+        <p class="description">Select your district manually, use your current location, or click directly on the interactive Haryana heatmap below.</p>
         
-        <div class="control-actions">
-          <!-- District Dropdown Wrapper -->
-          <div class="select-wrapper">
-            <i class="fa-solid fa-location-dot select-icon"></i>
-            <select id="districtSelect">
-              <option value="" disabled selected>Select District...</option>
-              <option value="5">Bhiwani</option>
-              <option value="12">Charkhi Dadri</option>
-              <option value="10">Faridabad</option>
-              <option value="2">Fatehabad</option>
-              <option value="8">Gurugram</option>
-              <option value="4">Hisar</option>
-              <option value="1">Jind</option>
-              <option value="6">Mahendrgarh</option>
-              <option value="9">Nuh</option>
-              <option value="11">Palwal</option>
-              <option value="7">Rewari</option>
-              <option value="3">Sirsa</option>
-            </select>
-            <i class="fa-solid fa-chevron-down select-arrow"></i>
+        <div class="control-layout">
+          <!-- SVG Heatmap Container -->
+          <div id="mapContainer" class="map-container">
+            <div class="map-loading">
+              <i class="fa-solid fa-circle-notch fa-spin"></i>
+              <span>Loading Interactive Map...</span>
+            </div>
           </div>
+          
+          <div class="control-actions">
+            <!-- District Dropdown Wrapper -->
+            <div class="select-wrapper">
+              <i class="fa-solid fa-location-dot select-icon"></i>
+              <select id="districtSelect">
+                <option value="" disabled selected>Select District...</option>
+                <option value="5">Bhiwani</option>
+                <option value="12">Charkhi Dadri</option>
+                <option value="10">Faridabad</option>
+                <option value="2">Fatehabad</option>
+                <option value="8">Gurugram</option>
+                <option value="4">Hisar</option>
+                <option value="1">Jind</option>
+                <option value="6">Mahendrgarh</option>
+                <option value="9">Nuh</option>
+                <option value="11">Palwal</option>
+                <option value="7">Rewari</option>
+                <option value="3">Sirsa</option>
+              </select>
+              <i class="fa-solid fa-chevron-down select-arrow"></i>
+            </div>
 
-          <!-- Geolocation button -->
-          <button id="locateBtn" class="btn btn-primary">
-            <i class="fa-solid fa-crosshairs"></i>
-            <span id="locateBtnText">Use My Location</span>
-          </button>
+            <!-- Geolocation button -->
+            <button id="locateBtn" class="btn btn-primary">
+              <i class="fa-solid fa-crosshairs"></i>
+              <span id="locateBtnText">Use My Location</span>
+            </button>
+          </div>
         </div>
 
         <!-- Geolocation Feedback Panel -->
@@ -95,11 +105,20 @@
           <i class="fa-solid fa-spinner fa-spin geo-loader"></i>
           <span id="geoFeedbackText">Detecting your location...</span>
         </div>
+
       <!-- High-Impact District Status Banner -->
       <section id="districtStatusHeader" class="district-status-header glass-card hidden">
-        <div class="status-summary">
-          <span class="status-label">District Status:</span>
-          <span id="districtStatusBadge" class="status-badge all-clear">ALL CLEAR</span>
+        <div class="status-summary-row">
+          <div class="status-summary">
+            <span class="status-label">District Status:</span>
+            <span id="districtStatusBadge" class="status-badge all-clear">ALL CLEAR</span>
+          </div>
+          <div class="district-health-info">
+            <span id="healthPercentText">100% Power Up</span>
+          </div>
+        </div>
+        <div class="district-health-bar-container">
+          <div class="district-health-bar" id="districtHealthBar" style="width: 100%;"></div>
         </div>
         <div class="status-metrics">
           <div class="metric-item">
@@ -110,8 +129,13 @@
             <span class="metric-value" id="statusAreasAffected">0</span>
             <span class="metric-label">Areas Affected</span>
           </div>
+          <div class="metric-item">
+            <span class="metric-value" id="statusPercentUp">100%</span>
+            <span class="metric-label">Electricity Up</span>
+          </div>
         </div>
       </section>
+
 
       <!-- Stats Dashboard -->
       <section id="statsPanel" class="stats-dashboard hidden">
@@ -144,7 +168,18 @@
             <p>Scheduled Maintenance</p>
           </div>
         </div>
+
+        <div class="stat-card glass-card">
+          <div class="stat-icon-wrapper green-glow" id="statArtGlow">
+            <i class="fa-solid fa-hourglass-half"></i>
+          </div>
+          <div class="stat-data">
+            <h3 id="statAvgFixTime">--</h3>
+            <p>Avg. Fix Time (7d)</p>
+          </div>
+        </div>
       </section>
+
 
       <!-- Geo Locality Alerts (Highlighted) -->
       <section id="localitySection" class="locality-alerts hidden">
@@ -263,14 +298,36 @@
           </div>
         </div>
 
+        <!-- Most Unreliable Feeders (Hotspot Leaderboard) -->
+        <div class="glass-card chart-container-card" style="margin-bottom: 24px; padding: 20px;">
+          <h3 style="font-family: var(--font-heading); font-size: 16px; font-weight: 600; margin-bottom: 16px; color: #fff; display: flex; align-items: center; gap: 8px;">
+            <i class="fa-solid fa-fire" style="color: var(--danger-color);"></i> Most Unreliable Feeders (Last 14 Days)
+          </h3>
+          <div id="leaderboardContent">
+            <!-- Dynamically populated top 5 list -->
+          </div>
+        </div>
+
+
         <div class="list-header-actions">
           <div class="header-title-row">
             <h2>Archive · <span id="historyDistrictName">Jind</span></h2>
-            <button id="exportCsvBtn" class="btn btn-primary" title="Export History as CSV">
-              <i class="fa-solid fa-file-csv"></i>
-              <span>Export CSV</span>
-            </button>
+            <div class="history-actions-group" style="display: flex; gap: 10px; align-items: center;">
+              <!-- Monthly Report Dropdown -->
+              <div class="select-wrapper" style="margin: 0; min-width: 170px; height: 38px;">
+                <i class="fa-solid fa-file-invoice select-icon" style="font-size: 13px;"></i>
+                <select id="monthlyReportSelect" style="padding: 8px 32px 8px 36px; font-size: 12px;">
+                  <option value="" disabled selected>Monthly Report...</option>
+                </select>
+                <i class="fa-solid fa-chevron-down select-arrow" style="font-size: 10px;"></i>
+              </div>
+              <button id="exportCsvBtn" class="btn btn-primary" title="Export History as CSV">
+                <i class="fa-solid fa-file-csv"></i>
+                <span>Export CSV</span>
+              </button>
+            </div>
           </div>
+
           <div class="search-wrapper">
             <i class="fa-solid fa-magnifying-glass search-icon"></i>
             <input type="text" id="historySearchInput" placeholder="Search historical area, feeder or remarks...">
@@ -323,7 +380,11 @@
     </footer>
   </div>
 
+  <!-- Floating Map Tooltip -->
+  <div id="mapTooltip" class="map-tooltip"></div>
+
   <!-- Custom JavaScript -->
   <script src="app.js"></script>
 </body>
 </html>
+

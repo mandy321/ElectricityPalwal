@@ -60,6 +60,17 @@ const path = require('path');
       districts: {}
     };
 
+    let oldOutagesData = null;
+    const oldOutagesPath = path.join(dataDir, 'outages.json');
+    if (fs.existsSync(oldOutagesPath)) {
+      try {
+        oldOutagesData = JSON.parse(fs.readFileSync(oldOutagesPath, 'utf8'));
+      } catch (e) {
+        console.log('Failed to parse previous outages.json');
+      }
+    }
+
+
     // Scrape each district
     for (let i = 0; i < selectInfo.districts.length; i++) {
       const dist = selectInfo.districts[i];
@@ -114,6 +125,41 @@ const path = require('path');
         }));
 
         outagesData.districts[dist.text] = currentActive;
+
+        // Check for new outages and send notifications via ntfy.sh
+        if (oldOutagesData && oldOutagesData.districts[dist.text]) {
+          const oldList = oldOutagesData.districts[dist.text];
+          currentActive.forEach(async activeItem => {
+            const isNew = !oldList.some(oldItem => 
+              oldItem.feeder === activeItem.feeder &&
+              oldItem.area === activeItem.area &&
+              oldItem.start_time === activeItem.start_time
+            );
+
+            if (isNew) {
+              console.log(`[ALERT] New outage detected in ${dist.text}: ${activeItem.area} (${activeItem.feeder})`);
+              const cleanDist = dist.text.toLowerCase().replace(/\s+/g, '_');
+              const topic = `dhbvn_outages_${cleanDist}`;
+              const message = `⚠️ Power cut detected in ${activeItem.area} (${activeItem.feeder}). Est. restoration: ${activeItem.expected_restoration_time || 'Pending Estimate'}`;
+              
+              try {
+                await fetch(`https://ntfy.sh/${topic}`, {
+                  method: 'POST',
+                  body: message,
+                  headers: {
+                    'Title': `New Outage in ${dist.text}`,
+                    'Tags': 'warning,bolt',
+                    'Priority': 'high'
+                  }
+                });
+                console.log(` -> Published alert to ntfy topic: ${topic}`);
+              } catch (err) {
+                console.error(` -> Failed to publish ntfy.sh alert: ${err.message}`);
+              }
+            }
+          });
+        }
+
 
         // Process Outage History (Archive)
         const historyDir = path.join(dataDir, 'history');

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "05-2026",
+    "name": "May 2026",
+    "url": "reports/may-2026.html",
+    "districts": {
+      "Bhiwani": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Charkhi Dadri": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Faridabad": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Fatehabad": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Gurugram": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Hisar": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Jind": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Mahendrgarh": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Nuh": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Palwal": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Rewari": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      },
+      "Sirsa": {
+        "outages": 0,
+        "art": 0,
+        "worst_feeder": "N/A",
+        "worst_week": "N/A",
+        "trend": 0
+      }
+    }
+  },
+  {
+    "id": "06-2026",
+    "name": "June 2026",
+    "url": "reports/june-2026.html",
+    "districts": {
+      "Bhiwani": {
+        "outages": 59,
+        "art": 0,
+        "worst_feeder": "POHKARWAS DS",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Charkhi Dadri": {
+        "outages": 88,
+        "art": 0,
+        "worst_feeder": "BADALA DS",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Faridabad": {
+        "outages": 269,
+        "art": 3.1,
+        "worst_feeder": "BHASKOLA DS",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Fatehabad": {
+        "outages": 109,
+        "art": 0,
+        "worst_feeder": "GAJUWALA DS",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Gurugram": {
+        "outages": 50,
+        "art": 2.6,
+        "worst_feeder": "SEWARI AP",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Hisar": {
+        "outages": 145,
+        "art": 7.2,
+        "worst_feeder": "MG CLUB",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Jind": {
+        "outages": 173,
+        "art": 1,
+        "worst_feeder": "CITY NO.5",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Mahendrgarh": {
+        "outages": 214,
+        "art": 5,
+        "worst_feeder": "KILA ROAD (U)",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Nuh": {
+        "outages": 289,
+        "art": 2,
+        "worst_feeder": "JALALPUR DS",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Palwal": {
+        "outages": 403,
+        "art": 2,
+        "worst_feeder": "CHANDHUT AP",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Rewari": {
+        "outages": 100,
+        "art": 0,
+        "worst_feeder": "RALIAWAS",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      },
+      "Sirsa": {
+        "outages": 26,
+        "art": 0,
+        "worst_feeder": "KAIRANWALI DS",
+        "worst_week": "Week 3 (15th - 21st)",
+        "trend": 100
+      }
+    }
+  }
+]
