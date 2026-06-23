@@ -712,7 +712,7 @@ function updateStats() {
   if (districtStatusHeader) {
     districtStatusHeader.classList.remove('hidden');
     statusFeedersDown.textContent = `${uniqueActiveFeeders.size} / ${totalFeedersCount}`;
-    statusAreasAffected.textContent = `${uniqueActiveAreas.size} / ${totalAreasCount}`;
+    statusAreasAffected.textContent = `${uniqueActiveAreas.size} / ${totalAreasCount} (${percentAreasDownStr}%)`;
     if (statusPercentUp) {
       statusPercentUp.textContent = `${percentAreasUpStr}%`;
     }
