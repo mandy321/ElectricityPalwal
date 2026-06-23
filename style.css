@@ -1522,3 +1522,52 @@ body {
   filter: none !important;
 }
 
+/* Selected map district highlight */
+.map-district.selected {
+  stroke: #00ffff !important;
+  stroke-width: 3px !important;
+  filter: drop-shadow(0 0 8px rgba(6, 182, 212, 0.6)) !important;
+}
+
+/* District live status rows */
+.district-status-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all var(--transition-fast) ease;
+}
+
+.district-status-row:hover {
+  background: rgba(6, 182, 212, 0.08);
+  border-color: rgba(6, 182, 212, 0.2);
+}
+
+.district-status-row.active-dist {
+  background: rgba(6, 182, 212, 0.12);
+  border-color: var(--primary-color);
+  box-shadow: 0 0 8px rgba(6, 182, 212, 0.1);
+}
+
+#allDistrictsStatusGrid::-webkit-scrollbar {
+  width: 4px;
+}
+
+#allDistrictsStatusGrid::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+#allDistrictsStatusGrid::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+}
+
+#allDistrictsStatusGrid::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+

@@ -552,6 +552,23 @@ function selectDistrict(districtId) {
       }
     });
   }
+  
+  // Highlight active row in status list
+  const statusGrid = document.getElementById('allDistrictsStatusGrid');
+  if (statusGrid) {
+    const rows = statusGrid.querySelectorAll('.district-status-row');
+    rows.forEach(row => {
+      const nameSpan = row.querySelector('span');
+      if (nameSpan) {
+        const distName = nameSpan.textContent;
+        if (distName === currentDistrictName) {
+          row.classList.add('active-dist');
+        } else {
+          row.classList.remove('active-dist');
+        }
+      }
+    });
+  }
 
   
   // Clear search and enable buttons
@@ -1803,7 +1820,7 @@ function colorSVGMap() {
     const isDHBVN = DISTRICT_NAME_TO_ID[distName] !== undefined;
     
     // Clear previous classes
-    dist.classList.remove('level-clear', 'level-minor', 'level-major', 'disabled');
+    dist.classList.remove('level-clear', 'level-minor', 'level-major', 'disabled', 'selected');
     
     if (!isDHBVN) {
       dist.classList.add('disabled');
@@ -1835,6 +1852,80 @@ function colorSVGMap() {
       dist.classList.add('selected');
     }
   });
+
+  // Dynamically populate all districts live status list
+  const statusGrid = document.getElementById('allDistrictsStatusGrid');
+  if (statusGrid) {
+    statusGrid.innerHTML = '';
+    
+    const dhbvnDistricts = Object.keys(DISTRICT_NAME_TO_ID);
+    const districtsWithPct = dhbvnDistricts.map(distName => {
+      const list = outagesData.districts[distName] || [];
+      const nowISTStr = new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' });
+      const nowIST = new Date(nowISTStr);
+      const nowTime = nowIST.getTime();
+      const activeCuts = list.filter(item => {
+        const end = parseDHBVNDate(item.expected_restoration_time);
+        return !end || end.getTime() >= nowTime;
+      });
+      
+      const masterAreas = (feederMasterData && feederMasterData[distName]?.areas) || [];
+      const baselineAreas = new Set(masterAreas.map(a => a.trim().toUpperCase()));
+      
+      const uniqueActiveAreas = new Set();
+      activeCuts.forEach(c => {
+        if (c.area) {
+          uniqueActiveAreas.add(c.area.trim().toUpperCase());
+        }
+      });
+      
+      uniqueActiveAreas.forEach(a => baselineAreas.add(a));
+      const totalAreasCount = baselineAreas.size || 1;
+      const percentAreasDown = ((uniqueActiveAreas.size / totalAreasCount) * 100);
+      const percentAreasUp = 100 - percentAreasDown;
+      
+      return {
+        name: distName,
+        percentUp: percentAreasUp,
+        percentUpStr: percentAreasUp.toFixed(1)
+      };
+    });
+
+    // Sort descending by percentUp
+    districtsWithPct.sort((a, b) => {
+      if (b.percentUp !== a.percentUp) {
+        return b.percentUp - a.percentUp;
+      }
+      return a.name.localeCompare(b.name);
+    });
+
+    districtsWithPct.forEach(dist => {
+      const row = document.createElement('div');
+      row.className = `district-status-row ${dist.name === currentDistrictName ? 'active-dist' : ''}`;
+      
+      let pctColor = 'var(--success-color)';
+      if (dist.percentUp < 95) {
+        pctColor = 'var(--warning-color)';
+      }
+      if (dist.percentUp < 85) {
+        pctColor = 'var(--danger-color)';
+      }
+      
+      row.innerHTML = `
+        <span style="font-weight: 500; color: #fff;">${dist.name}</span>
+        <span style="font-weight: 600; color: ${pctColor};">${dist.percentUpStr}% Up</span>
+      `;
+      
+      row.addEventListener('click', () => {
+        const distId = DISTRICT_NAME_TO_ID[dist.name];
+        if (distId) {
+          selectDistrict(distId);
+        }
+      });
+      
+      statusGrid.appendChild(row);
+    });
+  }
 }
 
 // -----------------------------------------------------------------------------
