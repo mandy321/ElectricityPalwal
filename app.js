@@ -216,7 +216,11 @@ async function initApp() {
     } else if (pinnedArea) {
       renderPinnedArea();
       selectDistrict(pinnedArea.districtId);
+    } else {
+      // Default to Palwal (District ID 11) on launch
+      selectDistrict("11");
     }
+
     
   } catch (error) {
     console.error('Initialization error:', error);
