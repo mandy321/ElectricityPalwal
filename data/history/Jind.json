@@ -2396,7 +2396,7 @@
     "expected_restoration_time": "21-Jun-2026 16:00:00",
     "remarks": "MTC   WORK",
     "scraped_at": "6/21/2026, 2:59:42 PM (IST)",
-    "last_seen_at": "6/24/2026, 5:32:28 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:25 AM (IST)",
     "timestamp": 1782053982000
   },
   {
@@ -9228,5 +9228,35 @@
     "scraped_at": "6/24/2026, 5:32:28 AM (IST)",
     "last_seen_at": "6/24/2026, 5:32:28 AM (IST)",
     "timestamp": 1782279148000
+  },
+  {
+    "feeder": "UCHANA KALAN (U)",
+    "area": "Uchana",
+    "start_time": "24-Jun-2026 00:59:00",
+    "expected_restoration_time": "24-Jun-2026 12:00:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:13:25 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:25 AM (IST)",
+    "timestamp": 1782296005000
+  },
+  {
+    "feeder": "Alipura AP",
+    "area": "Alipura",
+    "start_time": "24-Jun-2026 10:09:11",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:25 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:25 AM (IST)",
+    "timestamp": 1782296005000
+  },
+  {
+    "feeder": "Alipura AP",
+    "area": "Ali Pura",
+    "start_time": "24-Jun-2026 10:09:11",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:25 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:25 AM (IST)",
+    "timestamp": 1782296005000
   }
 ]

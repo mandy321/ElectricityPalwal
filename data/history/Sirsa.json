@@ -136,7 +136,7 @@
     "expected_restoration_time": "",
     "remarks": "PLANNED",
     "scraped_at": "6/21/2026, 7:34:21 AM (IST)",
-    "last_seen_at": "6/24/2026, 5:32:40 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
     "timestamp": 1782007461000
   },
   {
@@ -1126,7 +1126,7 @@
     "expected_restoration_time": "",
     "remarks": "PLANNED",
     "scraped_at": "6/21/2026, 5:32:12 PM (IST)",
-    "last_seen_at": "6/24/2026, 5:32:40 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
     "timestamp": 1782063132000
   },
   {
@@ -1136,7 +1136,7 @@
     "expected_restoration_time": "",
     "remarks": "PLANNED",
     "scraped_at": "6/21/2026, 5:32:12 PM (IST)",
-    "last_seen_at": "6/24/2026, 5:32:40 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
     "timestamp": 1782063132000
   },
   {
@@ -9498,5 +9498,225 @@
     "scraped_at": "6/24/2026, 5:32:40 AM (IST)",
     "last_seen_at": "6/24/2026, 5:32:40 AM (IST)",
     "timestamp": 1782279160000
+  },
+  {
+    "feeder": "MANDI I (U)",
+    "area": "Dabwali Mandi",
+    "start_time": "24-Jun-2026 07:06:41",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "DHANI MAJRA R.D.S.",
+    "area": "Mojukheda Village",
+    "start_time": "24-Jun-2026 10:11:53",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "DHANI MAJRA R.D.S.",
+    "area": "Dhani Majra Village",
+    "start_time": "24-Jun-2026 10:11:53",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "DHANI MAJRA R.D.S.",
+    "area": "Patli Dabar Village",
+    "start_time": "24-Jun-2026 10:11:53",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "DHANI MAJRA R.D.S.",
+    "area": "Bagguwali Village",
+    "start_time": "24-Jun-2026 10:11:53",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "DHANI MAJRA R.D.S.",
+    "area": "Mojukhera",
+    "start_time": "24-Jun-2026 10:11:53",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "DHANI MAJRA R.D.S.",
+    "area": "Bagguwali",
+    "start_time": "24-Jun-2026 10:11:53",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "DHANI MAJRA R.D.S.",
+    "area": "Baguwali",
+    "start_time": "24-Jun-2026 10:11:53",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "DHANI MAJRA R.D.S.",
+    "area": "Narel Kheda Village",
+    "start_time": "24-Jun-2026 10:11:53",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "BUPP DS",
+    "area": "Village Bhangu",
+    "start_time": "24-Jun-2026 10:03:19",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "BUPP DS",
+    "area": "Swaipur",
+    "start_time": "24-Jun-2026 10:03:19",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "BUPP DS",
+    "area": "Burj Bhangu",
+    "start_time": "24-Jun-2026 10:03:19",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "BUPP DS",
+    "area": "Bupp",
+    "start_time": "24-Jun-2026 10:03:19",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "BUPP DS",
+    "area": "Bangu",
+    "start_time": "24-Jun-2026 10:03:19",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "SUKHCHAIN DS",
+    "area": "Sukhchain",
+    "start_time": "24-Jun-2026 09:50:15",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "MANDI 132 KV SIRSA",
+    "area": "Janta Bhawan Road",
+    "start_time": "24-Jun-2026 09:58:00",
+    "expected_restoration_time": "24-Jun-2026 13:18:00",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "MANDI 132 KV SIRSA",
+    "area": "Preeti Vigyan Kendra",
+    "start_time": "24-Jun-2026 09:58:00",
+    "expected_restoration_time": "24-Jun-2026 13:18:00",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "MANDI 132 KV SIRSA",
+    "area": "Anaj Mandi",
+    "start_time": "24-Jun-2026 09:58:00",
+    "expected_restoration_time": "24-Jun-2026 13:18:00",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "MANDI 132 KV SIRSA",
+    "area": "Cicr Farm",
+    "start_time": "24-Jun-2026 09:58:00",
+    "expected_restoration_time": "24-Jun-2026 13:18:00",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "MANDI 132 KV SIRSA",
+    "area": "Krishi Vigyan Kendra",
+    "start_time": "24-Jun-2026 09:58:00",
+    "expected_restoration_time": "24-Jun-2026 13:18:00",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "MANDI 132 KV SIRSA",
+    "area": "chattergarhpati",
+    "start_time": "24-Jun-2026 09:58:00",
+    "expected_restoration_time": "24-Jun-2026 13:18:00",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
+  },
+  {
+    "feeder": "KALANWALI-U",
+    "area": "KALANWALI MARKET",
+    "start_time": "24-Jun-2026 09:49:08",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:13:37 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:13:37 AM (IST)",
+    "timestamp": 1782296017000
   }
 ]

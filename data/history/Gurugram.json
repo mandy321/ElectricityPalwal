@@ -7468,5 +7468,335 @@
     "scraped_at": "6/24/2026, 5:33:10 AM (IST)",
     "last_seen_at": "6/24/2026, 5:33:10 AM (IST)",
     "timestamp": 1782279190000
+  },
+  {
+    "feeder": "DHANAWAS AP",
+    "area": "Hamirpur",
+    "start_time": "24-Jun-2026 10:12:57",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "B/KHURD DS",
+    "area": "Bhora Khurd",
+    "start_time": "24-Jun-2026 09:50:22",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MUSHED PUR AP",
+    "area": "Musedpur",
+    "start_time": "24-Jun-2026 09:14:00",
+    "expected_restoration_time": "24-Jun-2026 10:20:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "IND P/H BADKA ALEMUDEEN",
+    "area": "Badka Alimudeen",
+    "start_time": "24-Jun-2026 10:05:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "IND P/H BADKA ALEMUDEEN",
+    "area": "Badka Water Supply",
+    "start_time": "24-Jun-2026 10:05:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HLF (U)",
+    "area": "DLF Phase 2 Block X",
+    "start_time": "24-Jun-2026 09:54:51",
+    "expected_restoration_time": "24-Jun-2026 23:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HLF (U)",
+    "area": "LEELA HOTEL",
+    "start_time": "24-Jun-2026 09:54:51",
+    "expected_restoration_time": "24-Jun-2026 23:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MANKROLA  RDS",
+    "area": "Village Jhanjhrola Khera",
+    "start_time": "24-Jun-2026 10:12:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MANKROLA  RDS",
+    "area": "Village Sultanpur",
+    "start_time": "24-Jun-2026 10:12:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MANKROLA  RDS",
+    "area": "Kaliyawas",
+    "start_time": "24-Jun-2026 10:12:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MANKROLA  RDS",
+    "area": "Khera",
+    "start_time": "24-Jun-2026 10:12:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MANKROLA  RDS",
+    "area": "Village Kaliyawas",
+    "start_time": "24-Jun-2026 10:12:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MANKROLA  RDS",
+    "area": "Sultan Pur",
+    "start_time": "24-Jun-2026 10:12:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MANKROLA  RDS",
+    "area": "Iqbalpur",
+    "start_time": "24-Jun-2026 10:12:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MANKROLA  RDS",
+    "area": "Khera Jhanjhrola",
+    "start_time": "24-Jun-2026 10:12:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "MANKROLA  RDS",
+    "area": "Budhera",
+    "start_time": "24-Jun-2026 10:12:21",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HIRMATHLA DS",
+    "area": "Melawas",
+    "start_time": "24-Jun-2026 06:42:00",
+    "expected_restoration_time": "24-Jun-2026 10:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HIRMATHLA DS",
+    "area": "Baika Danda",
+    "start_time": "24-Jun-2026 06:42:00",
+    "expected_restoration_time": "24-Jun-2026 10:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HIRMATHLA DS",
+    "area": "Kawarsika",
+    "start_time": "24-Jun-2026 06:42:00",
+    "expected_restoration_time": "24-Jun-2026 10:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HIRMATHLA DS",
+    "area": "Chappra",
+    "start_time": "24-Jun-2026 06:42:00",
+    "expected_restoration_time": "24-Jun-2026 10:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HIRMATHLA DS",
+    "area": "Kanwarsika",
+    "start_time": "24-Jun-2026 06:42:00",
+    "expected_restoration_time": "24-Jun-2026 10:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HIRMATHLA DS",
+    "area": "Badelaki",
+    "start_time": "24-Jun-2026 06:42:00",
+    "expected_restoration_time": "24-Jun-2026 10:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HIRMATHLA DS",
+    "area": "Rethora",
+    "start_time": "24-Jun-2026 06:42:00",
+    "expected_restoration_time": "24-Jun-2026 10:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HIRMATHLA DS",
+    "area": "Kheri Kankar",
+    "start_time": "24-Jun-2026 06:42:00",
+    "expected_restoration_time": "24-Jun-2026 10:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "HIRMATHLA DS",
+    "area": "Kutubgarh",
+    "start_time": "24-Jun-2026 06:42:00",
+    "expected_restoration_time": "24-Jun-2026 10:30:00",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Rupaheri",
+    "start_time": "24-Jun-2026 09:53:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Marola",
+    "start_time": "24-Jun-2026 09:53:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Gajarpur",
+    "start_time": "24-Jun-2026 09:53:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Mahoon",
+    "start_time": "24-Jun-2026 09:53:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Khor Bassai",
+    "start_time": "24-Jun-2026 09:53:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Dhir Dhoka",
+    "start_time": "24-Jun-2026 09:53:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Korali",
+    "start_time": "24-Jun-2026 09:53:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Rewason",
+    "start_time": "24-Jun-2026 09:53:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:09 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:09 AM (IST)",
+    "timestamp": 1782296049000
   }
 ]

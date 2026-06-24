@@ -14676,7 +14676,7 @@
     "expected_restoration_time": "24-Jun-2026 04:31:37",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "6/24/2026, 4:12:50 AM (IST)",
-    "last_seen_at": "6/24/2026, 5:33:22 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:21 AM (IST)",
     "timestamp": 1782274370000
   },
   {
@@ -14686,7 +14686,7 @@
     "expected_restoration_time": "24-Jun-2026 04:31:37",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "6/24/2026, 4:12:50 AM (IST)",
-    "last_seen_at": "6/24/2026, 5:33:22 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:21 AM (IST)",
     "timestamp": 1782274370000
   },
   {
@@ -14696,7 +14696,7 @@
     "expected_restoration_time": "24-Jun-2026 04:31:37",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "6/24/2026, 4:12:50 AM (IST)",
-    "last_seen_at": "6/24/2026, 5:33:22 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:21 AM (IST)",
     "timestamp": 1782274370000
   },
   {
@@ -14706,7 +14706,7 @@
     "expected_restoration_time": "24-Jun-2026 04:31:37",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "6/24/2026, 4:12:50 AM (IST)",
-    "last_seen_at": "6/24/2026, 5:33:22 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:21 AM (IST)",
     "timestamp": 1782274370000
   },
   {
@@ -14716,7 +14716,7 @@
     "expected_restoration_time": "24-Jun-2026 04:31:37",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "6/24/2026, 4:12:50 AM (IST)",
-    "last_seen_at": "6/24/2026, 5:33:22 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:21 AM (IST)",
     "timestamp": 1782274370000
   },
   {
@@ -14748,5 +14748,15 @@
     "scraped_at": "6/24/2026, 5:33:22 AM (IST)",
     "last_seen_at": "6/24/2026, 5:33:22 AM (IST)",
     "timestamp": 1782279202000
+  },
+  {
+    "feeder": "E/GARDEN  (U)",
+    "area": "EROS GARDEN FLAT",
+    "start_time": "24-Jun-2026 09:58:22",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/24/2026, 10:14:21 AM (IST)",
+    "last_seen_at": "6/24/2026, 10:14:21 AM (IST)",
+    "timestamp": 1782296061000
   }
 ]
