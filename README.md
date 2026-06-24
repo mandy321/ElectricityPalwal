@@ -2,6 +2,11 @@
 
 A premium, interactive web application to track live power outages, scheduled maintenance, and estimated restoration times for all 12 districts under the **Dakshin Haryana Bijli Vitran Nigam (DHBVN)**. 
 
+[![Outages Scraper](https://github.com/mandy321/haryana-dhbvn-electricity-status/actions/workflows/scrape.yml/badge.svg)](https://github.com/mandy321/haryana-dhbvn-electricity-status/actions/workflows/scrape.yml)
+![GitHub last commit](https://img.shields.io/github/last-commit/mandy321/haryana-dhbvn-electricity-status?color=blue)
+![GitHub License](https://img.shields.io/github/license/mandy321/haryana-dhbvn-electricity-status?color=orange)
+![Visitors](https://api.visitorbadge.io/api/visitors?repo=mandy321/haryana-dhbvn-electricity-status&label=visitors&color=cyan)
+
 🔗 **Live Website**: [https://mandy321.github.io/haryana-dhbvn-electricity-status/](https://mandy321.github.io/haryana-dhbvn-electricity-status/)
 
 ---
