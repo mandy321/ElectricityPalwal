@@ -15736,7 +15736,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 10:15:39 AM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782468939000
   },
   {
@@ -16106,7 +16106,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 2:03:04 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782482584000
   },
   {
@@ -16376,7 +16376,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:02 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782493262000
   },
   {
@@ -16406,7 +16406,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:02 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782493262000
   },
   {
@@ -16646,7 +16646,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:02 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782493262000
   },
   {
@@ -16656,7 +16656,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:02 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782493262000
   },
   {
@@ -16666,7 +16666,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:02 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782493262000
   },
   {
@@ -16846,7 +16846,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 7:06:56 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782500816000
   },
   {
@@ -16856,7 +16856,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 7:06:56 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782500816000
   },
   {
@@ -16866,7 +16866,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 7:06:56 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782500816000
   },
   {
@@ -17276,7 +17276,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 7:06:56 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782500816000
   },
   {
@@ -17286,7 +17286,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 7:06:56 PM (IST)",
-    "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
     "timestamp": 1782500816000
   },
   {
@@ -17688,5 +17688,285 @@
     "scraped_at": "6/26/2026, 11:31:11 PM (IST)",
     "last_seen_at": "6/26/2026, 11:31:11 PM (IST)",
     "timestamp": 1782516671000
+  },
+  {
+    "feeder": "JAMAL DS",
+    "area": "Nathusari",
+    "start_time": "27-Jun-2026 01:08:41",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "JAMAL DS",
+    "area": "Kultana",
+    "start_time": "27-Jun-2026 01:08:41",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "JAMAL DS",
+    "area": "Jamal",
+    "start_time": "27-Jun-2026 01:08:41",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "JAMAL DS",
+    "area": "Village Varasari",
+    "start_time": "27-Jun-2026 01:08:41",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "HUDA",
+    "area": "HUDA SECTOR",
+    "start_time": "27-Jun-2026 01:14:54",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "DOMESTIC DS",
+    "area": "Ram Nagaria",
+    "start_time": "26-Jun-2026 23:58:45",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "DOMESTIC DS",
+    "area": "Kelnia",
+    "start_time": "26-Jun-2026 23:58:45",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Gali Nek Wali",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Bhagat Singh Park",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Shiv Chock",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Suratgaria Bazaar",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Shivaji Colony",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Rori Bajaar",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Shiv Chock To Ghnta Ghr Chock",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Rori Bazar",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Bombey Wali Gali",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Purani Market Comety",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Gali Lekh Singh Wali",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Shiv Chowk (Bhagat Singh Park)",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Surat Gudiya Chock To Ghanta Ghsr Chock",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Shiv Chock To Ghnta Ghr Chock Upto 5P.M.",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Mohta Market",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Shiv Chowk",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Rori Gate",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "SHIV CHOWK",
+    "area": "Meena Bazar",
+    "start_time": "26-Jun-2026 23:44:17",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "KUTANA DS",
+    "area": "Rupawas",
+    "start_time": "27-Jun-2026 01:09:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "DEWATERING",
+    "area": "DEWATERING",
+    "start_time": "27-Jun-2026 00:30:38",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
+  },
+  {
+    "feeder": "KAGDANA DS",
+    "area": "Kagdana",
+    "start_time": "26-Jun-2026 23:42:59",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 1:35:25 AM (IST)",
+    "last_seen_at": "6/27/2026, 1:35:25 AM (IST)",
+    "timestamp": 1782524125000
   }
 ]
