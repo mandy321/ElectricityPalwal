@@ -13996,7 +13996,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 10:16:09 AM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782468969000
   },
   {
@@ -14046,7 +14046,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 2:03:34 PM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782482614000
   },
   {
@@ -14106,7 +14106,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 2:03:34 PM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782482614000
   },
   {
@@ -14156,7 +14156,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 2:03:34 PM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782482614000
   },
   {
@@ -14326,7 +14326,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:33 PM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782493293000
   },
   {
@@ -14336,7 +14336,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:33 PM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782493293000
   },
   {
@@ -14366,7 +14366,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:33 PM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782493293000
   },
   {
@@ -14546,7 +14546,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:33 PM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782493293000
   },
   {
@@ -14616,7 +14616,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:33 PM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782493293000
   },
   {
@@ -14976,7 +14976,257 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:33 PM (IST)",
-    "last_seen_at": "6/26/2026, 5:01:33 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
     "timestamp": 1782493293000
+  },
+  {
+    "feeder": "HARSARU CITY",
+    "area": "Harsaru",
+    "start_time": "26-Jun-2026 19:06:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SCP SECTOR-40 MARKET (U)",
+    "area": "Sector 40",
+    "start_time": "26-Jun-2026 18:43:00",
+    "expected_restoration_time": "26-Jun-2026 20:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "RATHIWAS-II DS",
+    "area": "Rathiwas",
+    "start_time": "26-Jun-2026 17:03:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SIDHRAWALI GEN.",
+    "area": "Sidhrawali",
+    "start_time": "26-Jun-2026 17:39:31",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "BILASPUR AP",
+    "area": "Bilaspur",
+    "start_time": "26-Jun-2026 18:47:10",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "HUDA MARKET FEEDER SEC-46 (U)",
+    "area": "DMRC",
+    "start_time": "26-Jun-2026 18:45:00",
+    "expected_restoration_time": "26-Jun-2026 20:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "HUDA MARKET FEEDER SEC-46 (U)",
+    "area": "Huda plot h no 500 to 1093(sec46)",
+    "start_time": "26-Jun-2026 18:45:00",
+    "expected_restoration_time": "26-Jun-2026 20:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "DPDO (U)",
+    "area": "Sector 51",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "11 KV Blossom",
+    "area": "Sector 51",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "POWER GRID (SEC.46)",
+    "area": "Huda market shop Dss 1 to 96",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SECTOR-46",
+    "area": "Huda Plot h no 1445 to 1600 (SEC 46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "DLF OFFICE (U)",
+    "area": "Huda market shop Dss 133 to 140(sec46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SECTOR-46",
+    "area": "Sector 46",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SCP-JALVAYU VIHAR (U)",
+    "area": "Huda market shop no Dss 145 to 159(sec46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "DLF OFFICE (U)",
+    "area": "Huda market shop Dss 95 to 117(sec46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "BAKHTAWAR CHOWK (U)",
+    "area": "Huda Plot h no 1094 to 1244(sec46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SECTOR-46",
+    "area": "Huda Plot h no 2200 to 2399 (SEC 46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SECTOR-46",
+    "area": "Hudda Market shop DSS 118 to 140 (Sec 46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "DLF OFFICE (U)",
+    "area": "Huda Plot h no 1245 to 1500(sec46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "DLF OFFICE (U)",
+    "area": "Huda Plot h no 1800 to 2199(sec46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SECTOR-46",
+    "area": "Huda Plot h no 1700 to 1799 (SEC 46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "POWER GRID (SEC.46)",
+    "area": "Huda Plot 1 to 121 (SEC 46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SECTOR 46 MANDIR (U)",
+    "area": "Huda Plot h no 2400 to 3099(sec46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "SECTOR-46",
+    "area": "Huda Plot h no 3100 to 3199 (SEC 46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
+  },
+  {
+    "feeder": "POWER GRID (SEC.46)",
+    "area": "Huda Plot  2659 TO 2675 (sec 46)",
+    "start_time": "26-Jun-2026 18:47:00",
+    "expected_restoration_time": "26-Jun-2026 21:00:00",
+    "remarks": "XLPE CABLE DAMAGE",
+    "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
+    "last_seen_at": "6/26/2026, 7:07:26 PM (IST)",
+    "timestamp": 1782500846000
   }
 ]
