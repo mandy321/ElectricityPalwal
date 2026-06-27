@@ -13996,7 +13996,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 10:16:09 AM (IST)",
-    "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
     "timestamp": 1782468969000
   },
   {
@@ -14106,7 +14106,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 2:03:34 PM (IST)",
-    "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
     "timestamp": 1782482614000
   },
   {
@@ -14156,7 +14156,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 2:03:34 PM (IST)",
-    "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
     "timestamp": 1782482614000
   },
   {
@@ -14336,7 +14336,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:33 PM (IST)",
-    "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
     "timestamp": 1782493293000
   },
   {
@@ -14366,7 +14366,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:33 PM (IST)",
-    "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
     "timestamp": 1782493293000
   },
   {
@@ -14616,7 +14616,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "6/26/2026, 5:01:33 PM (IST)",
-    "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
     "timestamp": 1782493293000
   },
   {
@@ -15036,7 +15036,7 @@
     "expected_restoration_time": "26-Jun-2026 20:00:00",
     "remarks": "XLPE CABLE DAMAGE",
     "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
-    "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
     "timestamp": 1782500846000
   },
   {
@@ -15046,7 +15046,7 @@
     "expected_restoration_time": "26-Jun-2026 20:00:00",
     "remarks": "XLPE CABLE DAMAGE",
     "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
-    "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
     "timestamp": 1782500846000
   },
   {
@@ -15206,7 +15206,7 @@
     "expected_restoration_time": "26-Jun-2026 21:00:00",
     "remarks": "XLPE CABLE DAMAGE",
     "scraped_at": "6/26/2026, 7:07:26 PM (IST)",
-    "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
     "timestamp": 1782500846000
   },
   {
@@ -17448,5 +17448,185 @@
     "scraped_at": "6/27/2026, 4:42:09 AM (IST)",
     "last_seen_at": "6/27/2026, 4:42:09 AM (IST)",
     "timestamp": 1782535329000
+  },
+  {
+    "feeder": "KHORI AP",
+    "area": "Khori",
+    "start_time": "27-Jun-2026 06:07:00",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "BAWLA AP",
+    "area": "Nanuka",
+    "start_time": "27-Jun-2026 06:07:03",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "MOTHER DAIRY",
+    "area": "Civil Hospital",
+    "start_time": "27-Jun-2026 05:53:15",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "GOSHGARH-II AP",
+    "area": "Ghoshgarh",
+    "start_time": "27-Jun-2026 06:12:14",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHAWASPUR DS",
+    "area": "Khawaspur",
+    "start_time": "27-Jun-2026 06:34:19",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHARKHARI AP",
+    "area": "Kharkhari",
+    "start_time": "27-Jun-2026 06:12:16",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "RATHIWAS-II DS",
+    "area": "Rathiwas",
+    "start_time": "27-Jun-2026 06:50:39",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "SCP RAHEJA (U)",
+    "area": "Sector 31",
+    "start_time": "27-Jun-2026 06:51:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "BILASPUR AP",
+    "area": "Bilaspur",
+    "start_time": "27-Jun-2026 06:11:23",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Dhir Dhoka",
+    "start_time": "27-Jun-2026 05:41:53",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Khor Bassai",
+    "start_time": "27-Jun-2026 05:41:53",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Korali",
+    "start_time": "27-Jun-2026 05:41:53",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Rewason",
+    "start_time": "27-Jun-2026 05:41:53",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Rupaheri",
+    "start_time": "27-Jun-2026 05:41:53",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Marola",
+    "start_time": "27-Jun-2026 05:41:53",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Gajarpur",
+    "start_time": "27-Jun-2026 05:41:53",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "KHORI BASAI DS",
+    "area": "Mahoon",
+    "start_time": "27-Jun-2026 05:41:53",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
+  },
+  {
+    "feeder": "NAYAGAON DS",
+    "area": "Nayagaon",
+    "start_time": "27-Jun-2026 06:54:37",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "6/27/2026, 6:57:17 AM (IST)",
+    "last_seen_at": "6/27/2026, 6:57:17 AM (IST)",
+    "timestamp": 1782543437000
   }
 ]
