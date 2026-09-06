@@ -1,15 +1,5 @@
 [
   {
-    "feeder": "INTERLINKING (U)",
-    "area": "Indra Colony",
-    "start_time": "24-Aug-2026 01:50:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/24/2026, 2:03:25 AM (IST)",
-    "last_seen_at": "8/24/2026, 2:29:10 AM (IST)",
-    "timestamp": 1787537005000
-  },
-  {
     "feeder": "ATALI DS",
     "area": "Atali",
     "start_time": "24-Aug-2026 02:43:45",
@@ -11226,7 +11216,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11236,7 +11226,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11246,7 +11236,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11256,7 +11246,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11266,7 +11256,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11276,7 +11266,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11286,7 +11276,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11296,7 +11286,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11306,7 +11296,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11316,7 +11306,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11326,7 +11316,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11336,7 +11326,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11346,7 +11336,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -11356,7 +11346,7 @@
     "expected_restoration_time": "10-Aug-2026 14:30:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/24/2026, 3:23:16 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787584996000
   },
   {
@@ -54186,7 +54176,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:21",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54196,7 +54186,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:21",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54276,7 +54266,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54286,7 +54276,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54766,7 +54756,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54776,7 +54766,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54786,7 +54776,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54796,7 +54786,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54806,7 +54796,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54816,7 +54806,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54826,7 +54816,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54836,7 +54826,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54846,7 +54836,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54856,7 +54846,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54866,7 +54856,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -54876,7 +54866,7 @@
     "expected_restoration_time": "27-Aug-2026 11:39:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/27/2026, 1:50:12 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787838612000
   },
   {
@@ -57246,7 +57236,7 @@
     "expected_restoration_time": "13-Aug-2026 11:50:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/28/2026, 12:40:50 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787877650000
   },
   {
@@ -57256,7 +57246,7 @@
     "expected_restoration_time": "13-Aug-2026 11:50:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/28/2026, 12:40:50 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787877650000
   },
   {
@@ -57266,7 +57256,7 @@
     "expected_restoration_time": "13-Aug-2026 11:50:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/28/2026, 12:40:50 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787877650000
   },
   {
@@ -57276,7 +57266,7 @@
     "expected_restoration_time": "13-Aug-2026 11:50:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/28/2026, 12:40:50 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787877650000
   },
   {
@@ -57286,7 +57276,7 @@
     "expected_restoration_time": "13-Aug-2026 11:50:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/28/2026, 12:40:50 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787877650000
   },
   {
@@ -57296,7 +57286,7 @@
     "expected_restoration_time": "13-Aug-2026 11:50:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/28/2026, 12:40:50 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787877650000
   },
   {
@@ -58606,7 +58596,7 @@
     "expected_restoration_time": "31-Jul-2026 01:30:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "8/28/2026, 9:11:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1787951493000
   },
   {
@@ -96506,7 +96496,7 @@
     "expected_restoration_time": "",
     "remarks": "UNPLANNED",
     "scraped_at": "9/2/2026, 4:39:36 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788323976000
   },
   {
@@ -102466,7 +102456,7 @@
     "expected_restoration_time": "05-Aug-2026 14:10:02",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/2/2026, 8:32:39 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788381159000
   },
   {
@@ -102476,7 +102466,7 @@
     "expected_restoration_time": "05-Aug-2026 14:10:02",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/2/2026, 8:32:39 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788381159000
   },
   {
@@ -102486,7 +102476,7 @@
     "expected_restoration_time": "05-Aug-2026 14:10:02",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/2/2026, 8:32:39 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788381159000
   },
   {
@@ -102496,7 +102486,7 @@
     "expected_restoration_time": "05-Aug-2026 14:10:02",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/2/2026, 8:32:39 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788381159000
   },
   {
@@ -102506,7 +102496,7 @@
     "expected_restoration_time": "05-Aug-2026 14:10:02",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/2/2026, 8:32:39 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788381159000
   },
   {
@@ -102516,7 +102506,7 @@
     "expected_restoration_time": "05-Aug-2026 14:10:02",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/2/2026, 8:32:39 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788381159000
   },
   {
@@ -131946,7 +131936,7 @@
     "expected_restoration_time": "05-Sep-2026 20:50:02",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/5/2026, 8:22:08 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788639728000
   },
   {
@@ -131956,7 +131946,7 @@
     "expected_restoration_time": "05-Sep-2026 20:50:02",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/5/2026, 8:22:08 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788639728000
   },
   {
@@ -131966,7 +131956,7 @@
     "expected_restoration_time": "05-Sep-2026 20:50:02",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/5/2026, 8:22:08 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788639728000
   },
   {
@@ -134106,7 +134096,7 @@
     "expected_restoration_time": "09-Aug-2026 03:10:01",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:48:00 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788670080000
   },
   {
@@ -134916,7 +134906,7 @@
     "expected_restoration_time": "",
     "remarks": "UNPLANNED",
     "scraped_at": "9/6/2026, 11:34:25 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788694465000
   },
   {
@@ -136376,7 +136366,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136426,7 +136416,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136436,7 +136426,7 @@
     "expected_restoration_time": "06-Sep-2026 17:47:57",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136446,7 +136436,7 @@
     "expected_restoration_time": "06-Sep-2026 17:47:57",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136456,7 +136446,7 @@
     "expected_restoration_time": "06-Sep-2026 17:47:57",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136466,7 +136456,7 @@
     "expected_restoration_time": "06-Sep-2026 17:47:57",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136476,7 +136466,7 @@
     "expected_restoration_time": "06-Sep-2026 17:47:57",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136486,7 +136476,7 @@
     "expected_restoration_time": "06-Sep-2026 17:47:57",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136496,7 +136486,7 @@
     "expected_restoration_time": "06-Sep-2026 17:47:57",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136506,7 +136496,7 @@
     "expected_restoration_time": "06-Sep-2026 17:47:57",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136516,7 +136506,7 @@
     "expected_restoration_time": "06-Sep-2026 17:47:57",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136806,7 +136796,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136816,7 +136806,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136826,7 +136816,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136926,7 +136916,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136936,7 +136926,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136946,7 +136936,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136956,7 +136946,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136966,7 +136956,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -136976,7 +136966,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137096,7 +137086,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137316,7 +137306,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137326,7 +137316,7 @@
     "expected_restoration_time": "06-Sep-2026 18:29:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137336,7 +137326,7 @@
     "expected_restoration_time": "06-Sep-2026 18:29:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137346,7 +137336,7 @@
     "expected_restoration_time": "06-Sep-2026 18:29:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137356,7 +137346,7 @@
     "expected_restoration_time": "06-Sep-2026 18:29:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137366,7 +137356,7 @@
     "expected_restoration_time": "06-Sep-2026 18:29:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137526,7 +137516,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137536,7 +137526,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137556,7 +137546,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137646,7 +137636,7 @@
     "expected_restoration_time": "06-Sep-2026 17:48:26",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137656,7 +137646,7 @@
     "expected_restoration_time": "06-Sep-2026 17:48:26",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137666,7 +137656,7 @@
     "expected_restoration_time": "06-Sep-2026 17:48:26",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137676,7 +137666,7 @@
     "expected_restoration_time": "06-Sep-2026 17:48:26",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -137686,7 +137676,7 @@
     "expected_restoration_time": "06-Sep-2026 17:48:26",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -138086,7 +138076,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -138096,7 +138086,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:37:33 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788712653000
   },
   {
@@ -138376,7 +138366,7 @@
     "expected_restoration_time": "06-Sep-2026 20:13:40",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138476,7 +138466,7 @@
     "expected_restoration_time": "06-Sep-2026 20:15:41",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138616,7 +138606,7 @@
     "expected_restoration_time": "06-Sep-2026 20:14:29",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138626,7 +138616,7 @@
     "expected_restoration_time": "06-Sep-2026 20:14:29",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138636,7 +138626,7 @@
     "expected_restoration_time": "06-Sep-2026 20:14:29",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138646,7 +138636,7 @@
     "expected_restoration_time": "06-Sep-2026 20:14:29",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138656,7 +138646,7 @@
     "expected_restoration_time": "06-Sep-2026 20:14:29",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138666,7 +138656,7 @@
     "expected_restoration_time": "06-Sep-2026 20:14:29",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138676,7 +138666,7 @@
     "expected_restoration_time": "06-Sep-2026 20:14:29",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138686,7 +138676,7 @@
     "expected_restoration_time": "06-Sep-2026 20:14:29",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138696,7 +138686,7 @@
     "expected_restoration_time": "06-Sep-2026 20:57:06",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138706,7 +138696,7 @@
     "expected_restoration_time": "06-Sep-2026 20:57:06",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138716,7 +138706,7 @@
     "expected_restoration_time": "06-Sep-2026 20:57:06",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138726,7 +138716,7 @@
     "expected_restoration_time": "06-Sep-2026 20:57:06",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138756,7 +138746,7 @@
     "expected_restoration_time": "06-Sep-2026 20:16:18",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138766,7 +138756,7 @@
     "expected_restoration_time": "06-Sep-2026 20:16:18",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138776,7 +138766,7 @@
     "expected_restoration_time": "06-Sep-2026 20:16:18",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138786,7 +138776,7 @@
     "expected_restoration_time": "06-Sep-2026 20:16:18",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138796,7 +138786,7 @@
     "expected_restoration_time": "06-Sep-2026 20:16:18",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138806,7 +138796,7 @@
     "expected_restoration_time": "06-Sep-2026 20:13:40",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138926,7 +138916,7 @@
     "expected_restoration_time": "06-Sep-2026 21:27:45",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138936,7 +138926,7 @@
     "expected_restoration_time": "06-Sep-2026 21:27:45",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138946,7 +138936,7 @@
     "expected_restoration_time": "06-Sep-2026 21:27:45",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138956,7 +138946,7 @@
     "expected_restoration_time": "06-Sep-2026 20:58:09",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -138966,7 +138956,7 @@
     "expected_restoration_time": "06-Sep-2026 20:58:09",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -139316,7 +139306,7 @@
     "expected_restoration_time": "06-Sep-2026 20:58:09",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -139326,7 +139316,7 @@
     "expected_restoration_time": "06-Sep-2026 20:58:09",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -139336,7 +139326,7 @@
     "expected_restoration_time": "06-Sep-2026 20:57:34",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -139466,7 +139456,7 @@
     "expected_restoration_time": "06-Sep-2026 19:30:49",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 7:46:29 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788723989000
   },
   {
@@ -139476,7 +139466,7 @@
     "expected_restoration_time": "06-Sep-2026 22:26:16",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139486,7 +139476,7 @@
     "expected_restoration_time": "06-Sep-2026 22:26:16",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139496,7 +139486,7 @@
     "expected_restoration_time": "06-Sep-2026 22:26:16",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139506,7 +139496,7 @@
     "expected_restoration_time": "06-Sep-2026 22:26:16",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139516,7 +139506,7 @@
     "expected_restoration_time": "06-Sep-2026 22:26:16",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139646,7 +139636,7 @@
     "expected_restoration_time": "06-Sep-2026 22:44:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139656,7 +139646,7 @@
     "expected_restoration_time": "06-Sep-2026 22:44:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139666,7 +139656,7 @@
     "expected_restoration_time": "06-Sep-2026 22:44:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139676,7 +139666,7 @@
     "expected_restoration_time": "06-Sep-2026 22:44:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139686,7 +139676,7 @@
     "expected_restoration_time": "06-Sep-2026 22:44:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139746,7 +139736,7 @@
     "expected_restoration_time": "06-Sep-2026 22:35:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139756,7 +139746,7 @@
     "expected_restoration_time": "06-Sep-2026 22:35:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139766,7 +139756,7 @@
     "expected_restoration_time": "06-Sep-2026 22:35:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139776,7 +139766,7 @@
     "expected_restoration_time": "06-Sep-2026 22:35:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139796,7 +139786,7 @@
     "expected_restoration_time": "06-Sep-2026 22:46:14",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139806,7 +139796,7 @@
     "expected_restoration_time": "06-Sep-2026 22:46:14",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139816,7 +139806,7 @@
     "expected_restoration_time": "06-Sep-2026 22:46:14",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139826,7 +139816,7 @@
     "expected_restoration_time": "06-Sep-2026 22:46:14",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139836,7 +139826,7 @@
     "expected_restoration_time": "06-Sep-2026 22:43:54",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139846,7 +139836,7 @@
     "expected_restoration_time": "06-Sep-2026 22:43:54",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139856,7 +139846,7 @@
     "expected_restoration_time": "07-Sep-2026 02:59:53",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139866,7 +139856,7 @@
     "expected_restoration_time": "07-Sep-2026 02:59:53",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139876,7 +139866,7 @@
     "expected_restoration_time": "07-Sep-2026 02:59:53",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139886,7 +139876,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139896,7 +139886,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139906,7 +139896,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139916,7 +139906,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139926,7 +139916,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139936,7 +139926,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139946,7 +139936,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139956,7 +139946,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139966,7 +139956,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -139976,7 +139966,7 @@
     "expected_restoration_time": "06-Sep-2026 23:36:50",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140096,7 +140086,7 @@
     "expected_restoration_time": "07-Sep-2026 00:14:56",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140116,7 +140106,7 @@
     "expected_restoration_time": "06-Sep-2026 22:11:55",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140126,7 +140116,7 @@
     "expected_restoration_time": "06-Sep-2026 22:11:55",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140136,7 +140126,7 @@
     "expected_restoration_time": "06-Sep-2026 22:12:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140146,7 +140136,7 @@
     "expected_restoration_time": "06-Sep-2026 22:12:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140166,7 +140156,7 @@
     "expected_restoration_time": "06-Sep-2026 22:26:16",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140176,7 +140166,7 @@
     "expected_restoration_time": "06-Sep-2026 22:14:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140186,7 +140176,7 @@
     "expected_restoration_time": "06-Sep-2026 22:14:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140196,7 +140186,7 @@
     "expected_restoration_time": "06-Sep-2026 22:14:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140206,7 +140196,7 @@
     "expected_restoration_time": "06-Sep-2026 22:14:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140216,7 +140206,7 @@
     "expected_restoration_time": "06-Sep-2026 22:14:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140226,7 +140216,7 @@
     "expected_restoration_time": "06-Sep-2026 22:14:03",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140456,7 +140446,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:49",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140466,7 +140456,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:49",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140476,7 +140466,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:49",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140486,7 +140476,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:49",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140496,7 +140486,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:49",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140506,7 +140496,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:49",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140516,7 +140506,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:49",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140526,7 +140516,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:49",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140536,7 +140526,7 @@
     "expected_restoration_time": "06-Sep-2026 22:44:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140546,7 +140536,7 @@
     "expected_restoration_time": "06-Sep-2026 22:44:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140626,7 +140616,7 @@
     "expected_restoration_time": "06-Sep-2026 22:22:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140636,7 +140626,7 @@
     "expected_restoration_time": "06-Sep-2026 22:22:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140646,7 +140636,7 @@
     "expected_restoration_time": "06-Sep-2026 22:22:04",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140656,7 +140646,7 @@
     "expected_restoration_time": "06-Sep-2026 22:23:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140666,7 +140656,7 @@
     "expected_restoration_time": "06-Sep-2026 22:23:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140676,7 +140666,7 @@
     "expected_restoration_time": "06-Sep-2026 22:23:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140766,7 +140756,7 @@
     "expected_restoration_time": "06-Sep-2026 22:43:55",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140776,7 +140766,7 @@
     "expected_restoration_time": "06-Sep-2026 22:43:55",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140786,7 +140776,7 @@
     "expected_restoration_time": "06-Sep-2026 22:12:40",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140796,7 +140786,7 @@
     "expected_restoration_time": "06-Sep-2026 22:16:53",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140866,7 +140856,7 @@
     "expected_restoration_time": "06-Sep-2026 22:27:30",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140876,7 +140866,7 @@
     "expected_restoration_time": "06-Sep-2026 22:27:30",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140886,7 +140876,7 @@
     "expected_restoration_time": "06-Sep-2026 22:20:27",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140896,7 +140886,7 @@
     "expected_restoration_time": "06-Sep-2026 22:20:27",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140956,7 +140946,7 @@
     "expected_restoration_time": "06-Sep-2026 22:20:27",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140966,7 +140956,7 @@
     "expected_restoration_time": "06-Sep-2026 22:20:27",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140976,7 +140966,7 @@
     "expected_restoration_time": "06-Sep-2026 22:20:27",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140986,7 +140976,7 @@
     "expected_restoration_time": "06-Sep-2026 22:20:27",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -140996,7 +140986,7 @@
     "expected_restoration_time": "06-Sep-2026 22:20:27",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141006,7 +140996,7 @@
     "expected_restoration_time": "06-Sep-2026 22:33:48",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141016,7 +141006,7 @@
     "expected_restoration_time": "06-Sep-2026 22:33:48",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141026,7 +141016,7 @@
     "expected_restoration_time": "06-Sep-2026 22:33:48",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141036,7 +141026,7 @@
     "expected_restoration_time": "06-Sep-2026 22:33:48",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141046,7 +141036,7 @@
     "expected_restoration_time": "06-Sep-2026 22:42:01",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141056,7 +141046,7 @@
     "expected_restoration_time": "07-Sep-2026 00:21:26",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141066,7 +141056,7 @@
     "expected_restoration_time": "07-Sep-2026 00:21:26",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141076,7 +141066,7 @@
     "expected_restoration_time": "07-Sep-2026 00:21:26",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141086,7 +141076,7 @@
     "expected_restoration_time": "07-Sep-2026 00:21:26",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141246,7 +141236,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:07",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141256,7 +141246,7 @@
     "expected_restoration_time": "06-Sep-2026 22:38:07",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141266,7 +141256,7 @@
     "expected_restoration_time": "06-Sep-2026 22:39:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141276,7 +141266,7 @@
     "expected_restoration_time": "06-Sep-2026 22:39:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141286,7 +141276,7 @@
     "expected_restoration_time": "06-Sep-2026 22:39:31",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141296,7 +141286,7 @@
     "expected_restoration_time": "07-Sep-2026 07:22:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141306,7 +141296,7 @@
     "expected_restoration_time": "07-Sep-2026 07:22:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141316,7 +141306,7 @@
     "expected_restoration_time": "07-Sep-2026 07:22:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141326,7 +141316,7 @@
     "expected_restoration_time": "07-Sep-2026 07:22:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141336,7 +141326,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141346,7 +141336,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141356,7 +141346,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141366,7 +141356,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141376,7 +141366,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141386,7 +141376,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141396,7 +141386,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141406,7 +141396,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141416,7 +141406,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141426,7 +141416,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:47",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:40:11 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788734411000
   },
   {
@@ -141436,7 +141426,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:20",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141446,7 +141436,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:20",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141456,7 +141446,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141466,7 +141456,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141476,7 +141466,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141486,7 +141476,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141496,7 +141486,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141506,7 +141496,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141516,7 +141506,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141526,7 +141516,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141536,7 +141526,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141546,7 +141536,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141556,7 +141546,7 @@
     "expected_restoration_time": "07-Sep-2026 00:12:36",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141566,7 +141556,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141576,7 +141566,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141586,7 +141576,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141596,7 +141586,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141606,7 +141596,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141616,7 +141606,7 @@
     "expected_restoration_time": "06-Sep-2026 23:50:17",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141626,7 +141616,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141636,7 +141626,7 @@
     "expected_restoration_time": "06-Sep-2026 23:00:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141646,7 +141636,7 @@
     "expected_restoration_time": "06-Sep-2026 23:00:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141656,7 +141646,7 @@
     "expected_restoration_time": "06-Sep-2026 23:00:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141666,7 +141656,7 @@
     "expected_restoration_time": "06-Sep-2026 23:00:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141676,7 +141666,7 @@
     "expected_restoration_time": "06-Sep-2026 23:00:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141686,7 +141676,7 @@
     "expected_restoration_time": "06-Sep-2026 23:00:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141696,7 +141686,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141706,7 +141696,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141716,7 +141706,7 @@
     "expected_restoration_time": "07-Sep-2026 00:19:46",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141726,7 +141716,7 @@
     "expected_restoration_time": "07-Sep-2026 00:11:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141736,7 +141726,7 @@
     "expected_restoration_time": "07-Sep-2026 00:11:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141746,7 +141736,7 @@
     "expected_restoration_time": "07-Sep-2026 00:11:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141756,7 +141746,7 @@
     "expected_restoration_time": "07-Sep-2026 00:11:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141766,7 +141756,7 @@
     "expected_restoration_time": "07-Sep-2026 00:11:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141776,7 +141766,7 @@
     "expected_restoration_time": "07-Sep-2026 00:11:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141786,7 +141776,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141796,7 +141786,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141806,7 +141796,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141816,7 +141806,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141826,7 +141816,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141836,7 +141826,7 @@
     "expected_restoration_time": "07-Sep-2026 00:11:12",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141856,7 +141846,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141866,7 +141856,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141876,7 +141866,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141886,7 +141876,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141896,7 +141886,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141906,7 +141896,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141916,7 +141906,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141926,7 +141916,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141936,7 +141926,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141946,7 +141936,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141956,7 +141946,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141966,7 +141956,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141976,7 +141966,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141986,7 +141976,7 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
   },
   {
@@ -141996,7 +141986,37 @@
     "expected_restoration_time": "07-Sep-2026 00:04:39",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/7/2026, 12:48:52 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:52 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
     "timestamp": 1788742132000
+  },
+  {
+    "feeder": "TIGAON ROAD",
+    "area": "Faridpur",
+    "start_time": "07-Sep-2026 02:16:59",
+    "expected_restoration_time": "",
+    "remarks": "UNPLANNED",
+    "scraped_at": "9/7/2026, 2:59:10 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
+    "timestamp": 1788749950000
+  },
+  {
+    "feeder": "FATEHPUR AP",
+    "area": "Panhera Kalan",
+    "start_time": "07-Sep-2026 02:29:52",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/7/2026, 2:59:10 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
+    "timestamp": 1788749950000
+  },
+  {
+    "feeder": "FATEHPUR AP",
+    "area": "Fatehpur Billoch",
+    "start_time": "07-Sep-2026 02:29:52",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/7/2026, 2:59:10 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:59:10 AM (IST)",
+    "timestamp": 1788749950000
   }
 ]

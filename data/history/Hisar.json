@@ -1,545 +1,5 @@
 [
   {
-    "feeder": "GANDHI NAGAR",
-    "area": "Gandhi Nagar",
-    "start_time": "24-Aug-2026 00:55:28",
-    "expected_restoration_time": "24-Aug-2026 02:55:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "GANDHI NAGAR",
-    "area": "Balmiki Basti On Patel Nagar Feeder",
-    "start_time": "24-Aug-2026 00:55:28",
-    "expected_restoration_time": "24-Aug-2026 02:55:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "GANDHI NAGAR",
-    "area": "Old Police Line Area",
-    "start_time": "24-Aug-2026 00:55:28",
-    "expected_restoration_time": "24-Aug-2026 02:55:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "GANDHI NAGAR",
-    "area": "Balmiki Mohalla",
-    "start_time": "24-Aug-2026 00:55:28",
-    "expected_restoration_time": "24-Aug-2026 02:55:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "GANDHI NAGAR",
-    "area": "Camp (Patel Nagar)",
-    "start_time": "24-Aug-2026 00:55:28",
-    "expected_restoration_time": "24-Aug-2026 02:55:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "GANDHI NAGAR",
-    "area": "Patel Nagar",
-    "start_time": "24-Aug-2026 00:55:28",
-    "expected_restoration_time": "24-Aug-2026 02:55:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "GANDHI NAGAR",
-    "area": "Pla Hno:- 1 To 491",
-    "start_time": "24-Aug-2026 00:55:28",
-    "expected_restoration_time": "24-Aug-2026 02:55:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "GANDHI NAGAR",
-    "area": "Sanjay Nagar On Gandhi Nagar Feeder",
-    "start_time": "24-Aug-2026 00:55:28",
-    "expected_restoration_time": "24-Aug-2026 02:55:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "SECTOR-15 (U)",
-    "area": "Bishnoi Colony Sec 15",
-    "start_time": "24-Aug-2026 00:54:55",
-    "expected_restoration_time": "24-Aug-2026 02:54:55",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "SECTOR-15 (U)",
-    "area": "Sector 15",
-    "start_time": "24-Aug-2026 00:54:55",
-    "expected_restoration_time": "24-Aug-2026 02:54:55",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "SECTOR-15 (U)",
-    "area": "Sector 15 A",
-    "start_time": "24-Aug-2026 00:54:55",
-    "expected_restoration_time": "24-Aug-2026 02:54:55",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "SECTOR-15 (U)",
-    "area": "Jawahar Nagar",
-    "start_time": "24-Aug-2026 00:54:55",
-    "expected_restoration_time": "24-Aug-2026 02:54:55",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 1:11:16 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787533876000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "Dayanand Colony (Some Area)",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "Defence Colony",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "B &R Colony",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "JAWAHAR NAGAR GALI NO 1,2,3,4,5,6,7,8,",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "Jawahar Nagar Gali No 11",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "Jawahar Nagar Gali No 9,10,12",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "M C Colony (Some Area)",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "Rajgarh Road Hisar",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "Dc Colony (Some Area)",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "DEFENCE COLONY (U)",
-    "area": "DEFENCE COLONY",
-    "start_time": "24-Aug-2026 01:43:23",
-    "expected_restoration_time": "24-Aug-2026 03:43:23",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:02:48 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787536968000
-  },
-  {
-    "feeder": "KOTH KALAN DS",
-    "area": "KOTH KALAN",
-    "start_time": "24-Aug-2026 02:18:50",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 2:28:33 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "KOTH KALAN DS",
-    "area": "Koth",
-    "start_time": "24-Aug-2026 02:18:50",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 2:28:33 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "NARA RDS",
-    "area": "Nara",
-    "start_time": "24-Aug-2026 02:18:52",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 2:28:33 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Vidya Nagar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "New Aggarsain Colony",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Ghora Farm Road",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Ghoda Farm Road",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Nehar Colony Hisar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "B And R Office",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Aggarsain Colony",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Farm Colony",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Professor Colony (HAU)",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Laxmi Bai Chowk Area",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "B And R Colony",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Vivek Vihar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Rajgarh Road Hisar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Canal Colony",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Feteh Chand Colony",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Balmiki Basti On Chandan Nagar Feeder",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Madhuban Park Hisar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Pwd Colony",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Priti Nagar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Proffessar Colony On Chandan Nagar Feeder",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Balsamand Road",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Viswkarma Colony",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Prem Nagar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Vidhya Nagar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Tulshi Nagar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Dhani Sorghar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Vikek Nagar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Univercity Vihar",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
-    "feeder": "MADHUBAN",
-    "area": "Malik Chowk",
-    "start_time": "24-Aug-2026 02:14:33",
-    "expected_restoration_time": "24-Aug-2026 04:14:33",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/24/2026, 2:28:33 AM (IST)",
-    "last_seen_at": "8/24/2026, 3:57:41 AM (IST)",
-    "timestamp": 1787538513000
-  },
-  {
     "feeder": "ARYA NAGAR  DS",
     "area": "Arya Nagar Khurd",
     "start_time": "24-Aug-2026 03:22:00",
@@ -54746,7 +54206,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54756,7 +54216,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54826,7 +54286,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54836,7 +54296,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54846,7 +54306,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54856,7 +54316,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54866,7 +54326,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54886,7 +54346,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54896,7 +54356,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54906,7 +54366,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54916,7 +54376,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54926,7 +54386,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54936,7 +54396,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54946,7 +54406,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54956,7 +54416,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54966,7 +54426,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54976,7 +54436,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54986,7 +54446,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -54996,7 +54456,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55006,7 +54466,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55016,7 +54476,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55026,7 +54486,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55036,7 +54496,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55046,7 +54506,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55056,7 +54516,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55066,7 +54526,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55076,7 +54536,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55096,7 +54556,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55106,7 +54566,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55116,7 +54576,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55126,7 +54586,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55136,7 +54596,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55146,7 +54606,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55156,7 +54616,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55166,7 +54626,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55176,7 +54636,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55186,7 +54646,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55196,7 +54656,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55206,7 +54666,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55216,7 +54676,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55226,7 +54686,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55236,7 +54696,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55246,7 +54706,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55256,7 +54716,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55266,7 +54726,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55276,7 +54736,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55286,7 +54746,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55296,7 +54756,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55306,7 +54766,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55316,7 +54776,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55326,7 +54786,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55336,7 +54796,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55366,7 +54826,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55376,7 +54836,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55386,7 +54846,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55396,7 +54856,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55406,7 +54866,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55416,7 +54876,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55426,7 +54886,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55436,7 +54896,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55446,7 +54906,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55456,7 +54916,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55466,7 +54926,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55476,7 +54936,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55486,7 +54946,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55496,7 +54956,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55506,7 +54966,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55516,7 +54976,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55526,7 +54986,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55536,7 +54996,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55546,7 +55006,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55556,7 +55016,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55566,7 +55026,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55576,7 +55036,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55586,7 +55046,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55596,7 +55056,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55636,7 +55096,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55646,7 +55106,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55656,7 +55116,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55666,7 +55126,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55676,7 +55136,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55686,7 +55146,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55696,7 +55156,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55706,7 +55166,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55716,7 +55176,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55726,7 +55186,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55736,7 +55196,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55746,7 +55206,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55756,7 +55216,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55766,7 +55226,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55776,7 +55236,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 4:36:56 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788712616000
   },
   {
@@ -55906,7 +55366,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 7:45:52 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788723952000
   },
   {
@@ -56106,7 +55566,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 7:45:52 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788723952000
   },
   {
@@ -56116,7 +55576,7 @@
     "expected_restoration_time": "07-Sep-2026 00:18:10",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56126,7 +55586,7 @@
     "expected_restoration_time": "07-Sep-2026 00:18:10",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56136,7 +55596,7 @@
     "expected_restoration_time": "07-Sep-2026 00:18:10",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56146,7 +55606,7 @@
     "expected_restoration_time": "07-Sep-2026 00:18:10",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56156,7 +55616,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56216,7 +55676,7 @@
     "expected_restoration_time": "07-Sep-2026 00:21:32",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56226,7 +55686,7 @@
     "expected_restoration_time": "07-Sep-2026 00:21:32",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56266,7 +55726,7 @@
     "expected_restoration_time": "07-Sep-2026 00:46:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56276,7 +55736,7 @@
     "expected_restoration_time": "07-Sep-2026 00:46:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56286,7 +55746,7 @@
     "expected_restoration_time": "07-Sep-2026 00:46:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56296,7 +55756,7 @@
     "expected_restoration_time": "07-Sep-2026 00:46:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56306,7 +55766,7 @@
     "expected_restoration_time": "07-Sep-2026 00:46:44",
     "remarks": "Issue will be resolved in estimated time",
     "scraped_at": "9/6/2026, 10:39:34 PM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788734374000
   },
   {
@@ -56316,7 +55776,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/7/2026, 12:48:15 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788742095000
   },
   {
@@ -56326,7 +55786,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/7/2026, 12:48:15 AM (IST)",
-    "last_seen_at": "9/7/2026, 12:48:15 AM (IST)",
+    "last_seen_at": "9/7/2026, 2:58:34 AM (IST)",
     "timestamp": 1788742095000
   }
 ]
