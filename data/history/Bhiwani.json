@@ -1,185 +1,5 @@
 [
   {
-    "feeder": "KHANAK DS",
-    "area": "Khanak",
-    "start_time": "27-Aug-2026 00:47:05",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "TALU DS",
-    "area": "Talu",
-    "start_time": "27-Aug-2026 01:22:03",
-    "expected_restoration_time": "",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 1:43:57 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "JATU LOHARI DS",
-    "area": "Jattu Lohari",
-    "start_time": "27-Aug-2026 01:05:46",
-    "expected_restoration_time": "27-Aug-2026 09:41:46",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "GHANGHALA AP",
-    "area": "Ghanghala",
-    "start_time": "27-Aug-2026 00:32:07",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "HARIPUR AP",
-    "area": "Haripur",
-    "start_time": "27-Aug-2026 00:02:02",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 1:43:57 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "LALHANA AP",
-    "area": "Golpura",
-    "start_time": "26-Aug-2026 23:58:38",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 1:43:57 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Charkha Ki Dhani",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Patram Gate",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Vaise Primary School",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Charkhan Dhani",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Haluwas Gate",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Nunsar Johad",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Swami Kirpa Ram Ki Gali",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Azad Nagar",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Badi Mohalla",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Gumani Lohar",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Cheja Ram Ki Dhani",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
-    "feeder": "PATRAM GATE (U)",
-    "area": "Halu Mohalla",
-    "start_time": "27-Aug-2026 01:05:28",
-    "expected_restoration_time": "27-Aug-2026 09:41:28",
-    "remarks": "Issue will be resolved in estimated time",
-    "scraped_at": "8/27/2026, 1:43:57 AM (IST)",
-    "last_seen_at": "8/27/2026, 5:15:43 AM (IST)",
-    "timestamp": 1787795037000
-  },
-  {
     "feeder": "NALWA  DS",
     "area": "Nalwa",
     "start_time": "27-Aug-2026 04:01:20",
@@ -12926,7 +12746,7 @@
     "expected_restoration_time": "",
     "remarks": "PLANNED",
     "scraped_at": "9/2/2026, 11:26:44 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788348404000
   },
   {
@@ -12936,7 +12756,7 @@
     "expected_restoration_time": "",
     "remarks": "PLANNED",
     "scraped_at": "9/2/2026, 11:26:44 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788348404000
   },
   {
@@ -17126,7 +16946,7 @@
     "expected_restoration_time": "",
     "remarks": "UNPLANNED",
     "scraped_at": "9/3/2026, 5:13:32 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788455612000
   },
   {
@@ -38246,7 +38066,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38256,7 +38076,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38266,7 +38086,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38276,7 +38096,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38286,7 +38106,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38296,7 +38116,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38306,7 +38126,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38326,7 +38146,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38376,7 +38196,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38386,7 +38206,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38396,7 +38216,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38406,7 +38226,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38416,7 +38236,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38426,7 +38246,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38436,7 +38256,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38646,7 +38466,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38656,7 +38476,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -38996,7 +38816,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39006,7 +38826,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39016,7 +38836,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39026,7 +38846,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39036,7 +38856,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39046,7 +38866,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39056,7 +38876,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39066,7 +38886,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39076,7 +38896,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39086,7 +38906,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39096,7 +38916,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39106,7 +38926,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39116,7 +38936,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39326,7 +39146,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39336,7 +39156,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39346,7 +39166,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39356,7 +39176,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39426,7 +39246,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39436,7 +39256,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39456,7 +39276,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -39696,7 +39516,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 5:04:58 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788973498000
   },
   {
@@ -41286,7 +41106,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 8:47:43 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788986863000
   },
   {
@@ -41296,7 +41116,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 8:47:43 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788986863000
   },
   {
@@ -41306,7 +41126,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 8:47:43 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788986863000
   },
   {
@@ -41316,7 +41136,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/9/2026, 8:47:43 PM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788986863000
   },
   {
@@ -42636,7 +42456,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42646,7 +42466,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42656,7 +42476,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42666,7 +42486,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42676,7 +42496,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42686,7 +42506,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42696,7 +42516,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42706,7 +42526,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42716,7 +42536,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42726,7 +42546,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42736,7 +42556,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42746,7 +42566,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42756,7 +42576,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42826,7 +42646,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42836,7 +42656,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42846,7 +42666,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42856,7 +42676,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42866,7 +42686,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42876,7 +42696,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42886,7 +42706,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42896,7 +42716,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42906,7 +42726,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42916,7 +42736,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42926,7 +42746,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42936,7 +42756,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42946,7 +42766,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42956,7 +42776,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42966,7 +42786,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42976,7 +42796,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42986,7 +42806,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -42996,7 +42816,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43006,7 +42826,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43016,7 +42836,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43026,7 +42846,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43036,7 +42856,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43046,7 +42866,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43056,7 +42876,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43066,7 +42886,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43076,7 +42896,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43086,7 +42906,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43096,7 +42916,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43106,7 +42926,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43206,7 +43026,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43216,7 +43036,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43276,7 +43096,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43286,7 +43106,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43296,7 +43116,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43306,7 +43126,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43316,7 +43136,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43326,7 +43146,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43336,7 +43156,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43346,7 +43166,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43356,7 +43176,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43366,7 +43186,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43696,7 +43516,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43756,7 +43576,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43806,7 +43626,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43816,7 +43636,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43826,7 +43646,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43836,7 +43656,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43846,7 +43666,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43856,7 +43676,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43866,7 +43686,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43876,7 +43696,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43886,7 +43706,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43896,7 +43716,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43906,7 +43726,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43916,7 +43736,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43926,7 +43746,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43936,7 +43756,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43946,7 +43766,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43956,7 +43776,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43966,7 +43786,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43976,7 +43796,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43986,7 +43806,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -43996,7 +43816,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44006,7 +43826,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44106,7 +43926,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44116,7 +43936,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44126,7 +43946,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44136,7 +43956,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44146,7 +43966,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44156,7 +43976,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44166,7 +43986,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44326,7 +44146,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44336,7 +44156,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44346,7 +44166,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44356,7 +44176,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44366,7 +44186,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44376,7 +44196,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44386,7 +44206,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44396,7 +44216,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44406,7 +44226,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44416,7 +44236,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44426,7 +44246,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44436,7 +44256,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44516,7 +44336,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44526,7 +44346,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44536,7 +44356,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44546,7 +44366,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44556,7 +44376,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44566,7 +44386,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44576,7 +44396,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44586,7 +44406,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44596,7 +44416,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44606,7 +44426,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44616,7 +44436,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44626,7 +44446,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44666,7 +44486,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44676,7 +44496,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -44686,7 +44506,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -45096,7 +44916,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -45106,7 +44926,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -45116,7 +44936,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -45126,7 +44946,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -45136,7 +44956,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -45146,7 +44966,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -45156,7 +44976,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
   },
   {
@@ -45166,7 +44986,67 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:14:03 AM (IST)",
-    "last_seen_at": "9/10/2026, 12:14:03 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
     "timestamp": 1788999243000
+  },
+  {
+    "feeder": "PATODI AP",
+    "area": "Patodi Khurd",
+    "start_time": "10-Sep-2026 02:30:28",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 3:03:49 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
+    "timestamp": 1789009429000
+  },
+  {
+    "feeder": "PATODI AP",
+    "area": "11 Kv Kharyabass Ap",
+    "start_time": "10-Sep-2026 02:30:28",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 3:03:49 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
+    "timestamp": 1789009429000
+  },
+  {
+    "feeder": "PATODI AP",
+    "area": "11 Kv Sahelwala",
+    "start_time": "10-Sep-2026 02:30:28",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 3:03:49 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
+    "timestamp": 1789009429000
+  },
+  {
+    "feeder": "PATODI AP",
+    "area": "11 Kv Sandwa Ap",
+    "start_time": "10-Sep-2026 02:30:28",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 3:03:49 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
+    "timestamp": 1789009429000
+  },
+  {
+    "feeder": "BARALOO AP",
+    "area": "Dhani Toda",
+    "start_time": "10-Sep-2026 02:46:32",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 3:03:49 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
+    "timestamp": 1789009429000
+  },
+  {
+    "feeder": "KISHANPURA AP",
+    "area": "Kishanpura",
+    "start_time": "10-Sep-2026 02:47:19",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 3:03:49 AM (IST)",
+    "last_seen_at": "9/10/2026, 3:03:49 AM (IST)",
+    "timestamp": 1789009429000
   }
 ]
