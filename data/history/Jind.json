@@ -1,1775 +1,5 @@
 [
   {
-    "feeder": "AHIRKA AP",
-    "area": "Ahirka Village",
-    "start_time": "26-Aug-2026 06:25:14",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 6:58:28 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "BARODA AP",
-    "area": "Baroda",
-    "start_time": "26-Aug-2026 06:02:01",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "HATT DS",
-    "area": "Hatt",
-    "start_time": "26-Aug-2026 06:27:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "FRAIN KALAN DS",
-    "area": "Bhikhe Wala",
-    "start_time": "26-Aug-2026 06:00:38",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "Kalwan (DS)",
-    "area": "Kalwan",
-    "start_time": "26-Aug-2026 06:02:27",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "SULHERA-DS",
-    "area": "Rajgarh Dhobi",
-    "start_time": "26-Aug-2026 06:14:15",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "SULHERA-DS",
-    "area": "Julehra",
-    "start_time": "26-Aug-2026 06:14:15",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "ASSAN DS",
-    "area": "Assan",
-    "start_time": "26-Aug-2026 06:31:39",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "ASSAN DS",
-    "area": "Pillukhera Village",
-    "start_time": "26-Aug-2026 06:31:39",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "ASSAN DS",
-    "area": "Dharauli",
-    "start_time": "26-Aug-2026 06:31:39",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "JIND ROAD",
-    "area": "Industry area Safidon",
-    "start_time": "26-Aug-2026 06:55:21",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 6:58:28 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "UCHANA KALAN (U)",
-    "area": "Uchana",
-    "start_time": "26-Aug-2026 06:57:46",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "Daroli Khera AP",
-    "area": "Daroli Khera",
-    "start_time": "26-Aug-2026 06:15:35",
-    "expected_restoration_time": "",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 6:58:28 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "Khaper  (DS)",
-    "area": "Bhongra",
-    "start_time": "26-Aug-2026 06:02:04",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "Khaper  (DS)",
-    "area": "Khapar",
-    "start_time": "26-Aug-2026 06:02:04",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "Khaper  (DS)",
-    "area": "Khaper",
-    "start_time": "26-Aug-2026 06:02:04",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "Khaper  (DS)",
-    "area": "Village Bhongra",
-    "start_time": "26-Aug-2026 06:02:04",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "Raghunagar Urban",
-    "area": "Employees Colony",
-    "start_time": "26-Aug-2026 06:55:44",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 6:58:28 AM (IST)",
-    "last_seen_at": "8/26/2026, 6:58:28 AM (IST)",
-    "timestamp": 1787727508000
-  },
-  {
-    "feeder": "DANDOLI AP",
-    "area": "Dhandoli",
-    "start_time": "26-Aug-2026 08:01:28",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Kuchrana AP No.1",
-    "area": "Kuchrana Kalan",
-    "start_time": "26-Aug-2026 08:03:59",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Kuchrana AP No.1",
-    "area": "Kuchrana Khurd",
-    "start_time": "26-Aug-2026 08:03:59",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Roj Khera  DS",
-    "area": "Roj Khera",
-    "start_time": "26-Aug-2026 07:04:47",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Katwal",
-    "area": "Katwal",
-    "start_time": "25-Aug-2026 13:24:00",
-    "expected_restoration_time": "",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Malvi DS",
-    "area": "Malvi",
-    "start_time": "26-Aug-2026 07:00:47",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "AFTABGARH  DS",
-    "area": "Village Rodh, Aftabgarh",
-    "start_time": "26-Aug-2026 07:01:34",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "AFTABGARH  DS",
-    "area": "Aftabgarh",
-    "start_time": "26-Aug-2026 07:01:34",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "RETOLI DS",
-    "area": "Retauli",
-    "start_time": "26-Aug-2026 07:25:17",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 8:21:56 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BOHATWALA DS",
-    "area": "Bothwala",
-    "start_time": "26-Aug-2026 07:02:07",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "SUDKAN KHURD DS",
-    "area": "Sudkan Khurd",
-    "start_time": "26-Aug-2026 07:01:57",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "SUDKAN KHURD DS",
-    "area": "Village Sudkan",
-    "start_time": "26-Aug-2026 07:01:57",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "SUDKAN KHURD DS",
-    "area": "Sudkan Kalan",
-    "start_time": "26-Aug-2026 07:01:57",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KHARAL (HAMIRGARH) DS",
-    "area": "Kharal",
-    "start_time": "26-Aug-2026 07:03:05",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Mohal Khera DS",
-    "area": "Mohal khera",
-    "start_time": "26-Aug-2026 07:02:49",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "DHAMTAN DS",
-    "area": "Dhamtan",
-    "start_time": "26-Aug-2026 07:02:42",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "ROOPGARH DS",
-    "area": "Jeetgarh",
-    "start_time": "26-Aug-2026 07:56:06",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "ROOPGARH DS",
-    "area": "Barodi",
-    "start_time": "26-Aug-2026 07:56:06",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "ROOPGARH DS",
-    "area": "Roopgarh",
-    "start_time": "26-Aug-2026 07:56:06",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "PAJU  AP",
-    "area": "Paju Khurd",
-    "start_time": "26-Aug-2026 08:00:36",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "PAJU  AP",
-    "area": "Paju Kalan",
-    "start_time": "26-Aug-2026 08:00:36",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "PAJU  AP",
-    "area": "Village Paju Kalan, Paju Khurd",
-    "start_time": "26-Aug-2026 08:00:36",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BAGRU RDS",
-    "area": "Bagru Khurd",
-    "start_time": "26-Aug-2026 08:01:36",
-    "expected_restoration_time": "",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 8:21:56 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BAGRU RDS",
-    "area": "Bagru Kalan",
-    "start_time": "26-Aug-2026 08:01:36",
-    "expected_restoration_time": "",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 8:21:56 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "SINAND RDS",
-    "area": "Haripura",
-    "start_time": "26-Aug-2026 07:01:37",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KOYAL RDS",
-    "area": "Koyal",
-    "start_time": "26-Aug-2026 07:01:36",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Phullian DS",
-    "area": "Phullian Kalan",
-    "start_time": "26-Aug-2026 07:00:31",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Phullian DS",
-    "area": "Phullian Khurd",
-    "start_time": "26-Aug-2026 07:00:31",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Phullian DS",
-    "area": "Karamgarh",
-    "start_time": "26-Aug-2026 07:00:31",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KHATKAR DS",
-    "area": "Khatkar",
-    "start_time": "26-Aug-2026 07:01:41",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Desh Khera DS",
-    "area": "Desh Khera",
-    "start_time": "26-Aug-2026 07:00:46",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Hathwala DS",
-    "area": "Kilazafer Garh",
-    "start_time": "26-Aug-2026 07:03:10",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Hathwala DS",
-    "area": "Hathwala",
-    "start_time": "26-Aug-2026 07:03:10",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BHADURPUR  DS",
-    "area": "Bahadurpur",
-    "start_time": "26-Aug-2026 07:58:09",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "ASHRAFGARH DS",
-    "area": "Ashrafgarh",
-    "start_time": "26-Aug-2026 07:01:32",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "ASHRAFGARH DS",
-    "area": "Radhana",
-    "start_time": "26-Aug-2026 07:01:32",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KHARANTI DS",
-    "area": "Garwali khera",
-    "start_time": "26-Aug-2026 07:00:23",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Badhana",
-    "area": "Badhana",
-    "start_time": "26-Aug-2026 07:03:07",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BHARO KHERA DS",
-    "area": "Bhairo Khera",
-    "start_time": "26-Aug-2026 07:02:02",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BHARO KHERA DS",
-    "area": "Chabri",
-    "start_time": "26-Aug-2026 07:02:02",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BHARO KHERA DS",
-    "area": "Lalit Khera",
-    "start_time": "26-Aug-2026 07:02:02",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Rajgarh AP",
-    "area": "Rajgarh",
-    "start_time": "26-Aug-2026 08:06:35",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Lajwana",
-    "area": "Meharda",
-    "start_time": "26-Aug-2026 07:03:11",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Muwana DS",
-    "area": "Village Muwana",
-    "start_time": "26-Aug-2026 08:04:18",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Muwana DS",
-    "area": "Muwana",
-    "start_time": "26-Aug-2026 08:04:18",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Dhatrath AP",
-    "area": "Dhatrath",
-    "start_time": "26-Aug-2026 07:59:37",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "DOHANA KHERA DS",
-    "area": "Jheel",
-    "start_time": "26-Aug-2026 07:05:00",
-    "expected_restoration_time": "26-Aug-2026 11:10:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 10:13:26 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "DOHANA KHERA DS",
-    "area": "Dohana Khera",
-    "start_time": "26-Aug-2026 07:05:00",
-    "expected_restoration_time": "26-Aug-2026 11:10:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 10:13:26 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "GENDA KHERA DS",
-    "area": "Gendhakhera",
-    "start_time": "26-Aug-2026 07:01:26",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BULLAN DS",
-    "area": "Bullan Kheri",
-    "start_time": "26-Aug-2026 07:01:31",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "DURANA DS",
-    "area": "Durana",
-    "start_time": "26-Aug-2026 07:03:00",
-    "expected_restoration_time": "26-Aug-2026 11:00:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 10:13:26 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "RAMGARH DS",
-    "area": "Ghimana",
-    "start_time": "26-Aug-2026 07:01:42",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "RAMGARH DS",
-    "area": "Ramgarh",
-    "start_time": "26-Aug-2026 07:01:42",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "RAMGARH DS",
-    "area": "Dhani",
-    "start_time": "26-Aug-2026 07:01:42",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Uchana Khurd DS",
-    "area": "Uchana Kalan",
-    "start_time": "26-Aug-2026 07:00:27",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Uchana Khurd DS",
-    "area": "Uchana Khurd",
-    "start_time": "26-Aug-2026 07:00:27",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BELARKHA DS",
-    "area": "Belarkha",
-    "start_time": "26-Aug-2026 07:02:52",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Chattar (DS)",
-    "area": "Chatter",
-    "start_time": "26-Aug-2026 07:01:32",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BHAKTA KHERA",
-    "area": "Bakta Khera",
-    "start_time": "26-Aug-2026 07:00:27",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "JULANI DS",
-    "area": "Barsola",
-    "start_time": "26-Aug-2026 07:00:38",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "JULANI DS",
-    "area": "Dariyawala",
-    "start_time": "26-Aug-2026 07:00:38",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "JULANI DS",
-    "area": "Julani",
-    "start_time": "26-Aug-2026 07:00:38",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "PonkeriKheri",
-    "area": "Baganwala",
-    "start_time": "26-Aug-2026 07:05:52",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "PonkeriKheri",
-    "area": "Sirsa Kheri",
-    "start_time": "26-Aug-2026 07:05:52",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "PonkeriKheri",
-    "area": "Gulkani",
-    "start_time": "26-Aug-2026 07:05:52",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "PonkeriKheri",
-    "area": "Pokhri Kheri",
-    "start_time": "26-Aug-2026 07:05:52",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "ALLAN AP",
-    "area": "Allan Jogi Khera",
-    "start_time": "26-Aug-2026 07:25:22",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 8:21:56 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "SINGHWAL RDS",
-    "area": "Singhwal",
-    "start_time": "26-Aug-2026 07:00:41",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "SINGHWAL RDS",
-    "area": "Sinsar",
-    "start_time": "26-Aug-2026 07:00:41",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KHRAK RAM JI DS",
-    "area": "Kharak Ramji",
-    "start_time": "26-Aug-2026 07:01:45",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "MANGALPUR DS",
-    "area": "Surbera",
-    "start_time": "26-Aug-2026 07:05:12",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Loan  (DS)",
-    "area": "Loan",
-    "start_time": "26-Aug-2026 07:07:22",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Kasoon  DS",
-    "area": "Bhonsla",
-    "start_time": "26-Aug-2026 07:04:46",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Kasoon  DS",
-    "area": "Kasoon",
-    "start_time": "26-Aug-2026 07:04:46",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Kinana",
-    "area": "Bisanpura",
-    "start_time": "26-Aug-2026 07:01:46",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "IKKAS DS",
-    "area": "Ikkas",
-    "start_time": "26-Aug-2026 07:03:57",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KHERI DS",
-    "area": "Dhanda Kheri",
-    "start_time": "26-Aug-2026 07:00:26",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KHERI DS",
-    "area": "Jajwan",
-    "start_time": "26-Aug-2026 07:00:26",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Malvi DS",
-    "area": "Malvi",
-    "start_time": "26-Aug-2026 07:03:15",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "JHAMOLA DS",
-    "area": "Jamola",
-    "start_time": "26-Aug-2026 07:00:24",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Dehola",
-    "area": "Dehola",
-    "start_time": "26-Aug-2026 07:03:05",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "DALAMWALA DS",
-    "area": "Dalamwala",
-    "start_time": "26-Aug-2026 07:02:30",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "AHIRKA AP",
-    "area": "Ahirka Village",
-    "start_time": "26-Aug-2026 08:00:43",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Bibipur",
-    "area": "Bibipur",
-    "start_time": "26-Aug-2026 07:01:00",
-    "expected_restoration_time": "26-Aug-2026 10:30:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 10:13:26 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Bibipur",
-    "area": "Bahabalpur",
-    "start_time": "26-Aug-2026 07:01:00",
-    "expected_restoration_time": "26-Aug-2026 10:30:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 10:13:26 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Sedha Majra DS",
-    "area": "Kheri Masania",
-    "start_time": "26-Aug-2026 07:00:25",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Sedha Majra DS",
-    "area": "Seda Majra",
-    "start_time": "26-Aug-2026 07:00:25",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KHEMAKHERI DS",
-    "area": "Kamach Khera",
-    "start_time": "26-Aug-2026 07:22:28",
-    "expected_restoration_time": "",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 8:21:56 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KHEMAKHERI DS",
-    "area": "Devirad",
-    "start_time": "26-Aug-2026 07:22:28",
-    "expected_restoration_time": "",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 8:21:56 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "KHEMAKHERI DS",
-    "area": "Khama Kheri",
-    "start_time": "26-Aug-2026 07:22:28",
-    "expected_restoration_time": "",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 8:21:56 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Budha Khera DS",
-    "area": "Budha Khera",
-    "start_time": "26-Aug-2026 08:19:24",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 8:21:56 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "BARTA RDS",
-    "area": "Barta",
-    "start_time": "26-Aug-2026 07:00:51",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 8:21:56 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787732516000
-  },
-  {
-    "feeder": "Daroli Khera AP",
-    "area": "Daroli Khera",
-    "start_time": "26-Aug-2026 08:39:25",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "Harnampura AP",
-    "area": "Harnam Singh Wala",
-    "start_time": "26-Aug-2026 08:58:00",
-    "expected_restoration_time": "26-Aug-2026 12:00:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 12:43:27 PM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "KHEMAKHERI DS",
-    "area": "Devirad",
-    "start_time": "26-Aug-2026 07:22:00",
-    "expected_restoration_time": "26-Aug-2026 11:30:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 10:13:26 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "KHEMAKHERI DS",
-    "area": "Kamach Khera",
-    "start_time": "26-Aug-2026 07:22:00",
-    "expected_restoration_time": "26-Aug-2026 11:30:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 10:13:26 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "KHEMAKHERI DS",
-    "area": "Khama Kheri",
-    "start_time": "26-Aug-2026 07:22:00",
-    "expected_restoration_time": "26-Aug-2026 11:30:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 10:13:26 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "ADARSH COLONY",
-    "area": "Saraswati School Road",
-    "start_time": "26-Aug-2026 09:14:01",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "ADARSH COLONY",
-    "area": "Ward No.13",
-    "start_time": "26-Aug-2026 09:14:01",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "ADARSH COLONY",
-    "area": "Singalpura Mohalla",
-    "start_time": "26-Aug-2026 09:14:01",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "ADARSH COLONY",
-    "area": "Agarsain Colony",
-    "start_time": "26-Aug-2026 09:14:01",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "ADARSH COLONY",
-    "area": "Hatkeshwar Colony",
-    "start_time": "26-Aug-2026 09:14:01",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "ADARSH COLONY",
-    "area": "Shiv Colony",
-    "start_time": "26-Aug-2026 09:14:01",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "ADARSH COLONY",
-    "area": "Adarsh Colony",
-    "start_time": "26-Aug-2026 09:14:01",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "ADARSH COLONY",
-    "area": "Ward No.12",
-    "start_time": "26-Aug-2026 09:14:01",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "BAGRU RDS",
-    "area": "Bagru Khurd",
-    "start_time": "26-Aug-2026 08:01:00",
-    "expected_restoration_time": "26-Aug-2026 11:30:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "BAGRU RDS",
-    "area": "Bagru Kalan",
-    "start_time": "26-Aug-2026 08:01:00",
-    "expected_restoration_time": "26-Aug-2026 11:30:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "RODH-AP",
-    "area": "Rodh",
-    "start_time": "26-Aug-2026 09:09:51",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "HAMIRGARH AP",
-    "area": "Hamir Garh",
-    "start_time": "26-Aug-2026 08:25:38",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 9:26:19 AM (IST)",
-    "last_seen_at": "8/26/2026, 9:26:19 AM (IST)",
-    "timestamp": 1787736379000
-  },
-  {
-    "feeder": "ALLAN AP",
-    "area": "Allan Jogi Khera",
-    "start_time": "26-Aug-2026 10:46:38",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "Khanda",
-    "area": "Khanada",
-    "start_time": "26-Aug-2026 10:32:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "Khanda",
-    "area": "Khanda",
-    "start_time": "26-Aug-2026 10:32:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "ShamloKalan",
-    "area": "Shamlo Kalan",
-    "start_time": "26-Aug-2026 10:45:32",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "ShamloKalan",
-    "area": "Samlo Khurd",
-    "start_time": "26-Aug-2026 10:45:32",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "JALALPURA AP",
-    "area": "Jalalpur Khurd",
-    "start_time": "26-Aug-2026 10:45:37",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "Rajgarh AP",
-    "area": "Rajgarh",
-    "start_time": "26-Aug-2026 10:45:47",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "Kalta AP",
-    "area": "Kalta",
-    "start_time": "26-Aug-2026 10:59:50",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "Shahpur DS",
-    "area": "Shahpur",
-    "start_time": "26-Aug-2026 11:02:46",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "IND BHARAT",
-    "area": "Industry Anchra Kalan",
-    "start_time": "26-Aug-2026 10:46:11",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "UCHANA KALAN (U)",
-    "area": "Uchana",
-    "start_time": "26-Aug-2026 11:06:54",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "SARFABAD AP",
-    "area": "Sarfabad",
-    "start_time": "26-Aug-2026 10:45:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Guru Duwara Colony",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Khem Nagar Rohtak Road Jind",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Hansi Road",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Bhisambhar Nagar",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Bhagat Singh Colony",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "New Shyam Nagar Bhiwani Road Jind",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "ATAMA NAGAR BHAVANI ROAD JIND",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Bhagat Sing Colony Rohtak Road Bu Pass",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Asharam Basti",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Atma Nagar Bhiwani Road Jind",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Rohtak Road",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Buda Baba Basti",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Bhupender Nagar Jind",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Gupta Colony",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Jayanti School Bhiwani Road Jind",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Sharma Nagar (Lal mata mandir)",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "HansiRoad",
-    "area": "Vikas Nagar",
-    "start_time": "26-Aug-2026 10:20:58",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:07:46 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:07:46 AM (IST)",
-    "timestamp": 1787742466000
-  },
-  {
-    "feeder": "KAIR KHERI AP",
-    "area": "Kairkheri",
-    "start_time": "26-Aug-2026 11:14:08",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "KHARKARA AP",
-    "area": "Kharkara",
-    "start_time": "26-Aug-2026 11:25:02",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "AHIRKA AP",
-    "area": "Ahirka Village",
-    "start_time": "26-Aug-2026 11:21:47",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Harigarh DS",
-    "area": "Harigarh",
-    "start_time": "26-Aug-2026 11:18:28",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "KHEMAKHERI DS",
-    "area": "Kamach Khera",
-    "start_time": "26-Aug-2026 11:24:56",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "KHEMAKHERI DS",
-    "area": "Khama Kheri",
-    "start_time": "26-Aug-2026 11:24:56",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "KHEMAKHERI DS",
-    "area": "Devirad",
-    "start_time": "26-Aug-2026 11:24:56",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Budha Khera DS",
-    "area": "Budha Khera",
-    "start_time": "26-Aug-2026 11:29:32",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Kalta AP",
-    "area": "Kalta",
-    "start_time": "26-Aug-2026 10:59:00",
-    "expected_restoration_time": "26-Aug-2026 13:00:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Pouli AP",
-    "area": "Pouli",
-    "start_time": "26-Aug-2026 11:12:42",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Akal Garh",
-    "area": "Akalgarh",
-    "start_time": "26-Aug-2026 11:12:43",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Akal Garh",
-    "area": "Lijwana  Khurd",
-    "start_time": "26-Aug-2026 11:12:43",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Akal Garh",
-    "area": "Malwi",
-    "start_time": "26-Aug-2026 11:12:43",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Akal Garh",
-    "area": "Sirsa Kheri",
-    "start_time": "26-Aug-2026 11:12:43",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Akal Garh",
-    "area": "Lijwan kalan",
-    "start_time": "26-Aug-2026 11:12:43",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Akal Garh",
-    "area": "Kharainti",
-    "start_time": "26-Aug-2026 11:12:43",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Akal Garh",
-    "area": "Nandgarh",
-    "start_time": "26-Aug-2026 11:12:43",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Akal Garh",
-    "area": "Bhuda Khera",
-    "start_time": "26-Aug-2026 11:12:43",
-    "expected_restoration_time": "",
-    "remarks": "",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Katwal",
-    "area": "Katwal",
-    "start_time": "26-Aug-2026 11:11:00",
-    "expected_restoration_time": "26-Aug-2026 13:00:00",
-    "remarks": "UNPLANNED",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 12:43:27 PM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Khanda",
-    "area": "Khanda",
-    "start_time": "26-Aug-2026 11:15:00",
-    "expected_restoration_time": "26-Aug-2026 14:00:00",
-    "remarks": "PLANNED",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
-    "feeder": "Khanda",
-    "area": "Khanada",
-    "start_time": "26-Aug-2026 11:15:00",
-    "expected_restoration_time": "26-Aug-2026 14:00:00",
-    "remarks": "PLANNED",
-    "scraped_at": "8/26/2026, 11:35:22 AM (IST)",
-    "last_seen_at": "8/26/2026, 11:35:22 AM (IST)",
-    "timestamp": 1787744122000
-  },
-  {
     "feeder": "Loan  (DS)",
     "area": "Loan",
     "start_time": "26-Aug-2026 12:19:32",
@@ -10116,7 +8346,7 @@
     "expected_restoration_time": "21-Jun-2026 16:00:00",
     "remarks": "MTC   WORK",
     "scraped_at": "8/31/2026, 3:36:49 AM (IST)",
-    "last_seen_at": "9/9/2026, 6:36:46 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
     "timestamp": 1788147409000
   },
   {
@@ -30718,5 +28948,505 @@
     "scraped_at": "9/9/2026, 6:36:46 AM (IST)",
     "last_seen_at": "9/9/2026, 6:36:46 AM (IST)",
     "timestamp": 1788935806000
+  },
+  {
+    "feeder": "Pouli AP",
+    "area": "Pouli",
+    "start_time": "09-Sep-2026 10:45:57",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "DABLAIN DS",
+    "area": "Dablain",
+    "start_time": "09-Sep-2026 09:46:11",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Bhurain DS",
+    "area": "Bhurain",
+    "start_time": "09-Sep-2026 11:29:26",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "BUDHAKHERA AP",
+    "area": "Budhakhera",
+    "start_time": "09-Sep-2026 11:35:03",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "SARFABAD AP",
+    "area": "Sarfabad",
+    "start_time": "09-Sep-2026 10:45:16",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Phullian DS",
+    "area": "Phullian Kalan",
+    "start_time": "09-Sep-2026 10:26:49",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Phullian DS",
+    "area": "Karamgarh",
+    "start_time": "09-Sep-2026 10:26:49",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Phullian DS",
+    "area": "Phullian Khurd",
+    "start_time": "09-Sep-2026 10:26:49",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Harnampura AP",
+    "area": "Harnam Singh Wala",
+    "start_time": "09-Sep-2026 10:53:37",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Katwal",
+    "area": "Katwal",
+    "start_time": "09-Sep-2026 10:50:00",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "RETOLI DS",
+    "area": "Retauli",
+    "start_time": "09-Sep-2026 11:02:04",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Rozla AP",
+    "area": "Rozia",
+    "start_time": "09-Sep-2026 11:15:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Rozla AP",
+    "area": "Rozla",
+    "start_time": "09-Sep-2026 11:15:05",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "ShamloKalan",
+    "area": "Shamlo Kalan",
+    "start_time": "09-Sep-2026 10:45:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "ShamloKalan",
+    "area": "Samlo Khurd",
+    "start_time": "09-Sep-2026 10:45:30",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "JALALPURA AP",
+    "area": "Jalalpur Khurd",
+    "start_time": "09-Sep-2026 10:46:56",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "RAJANA DS",
+    "area": "Rajana Kalan",
+    "start_time": "09-Sep-2026 11:29:28",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "RAJANA DS",
+    "area": "Rajana Khurd",
+    "start_time": "09-Sep-2026 11:29:28",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "DOHANA KHERA DS",
+    "area": "Dohana Khera",
+    "start_time": "09-Sep-2026 10:08:12",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "DOHANA KHERA DS",
+    "area": "Jheel",
+    "start_time": "09-Sep-2026 10:08:12",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Industries",
+    "area": "Brahmanwas",
+    "start_time": "09-Sep-2026 11:05:41",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Industries",
+    "area": "INDUS College",
+    "start_time": "09-Sep-2026 11:05:41",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Industries",
+    "area": "Julana City",
+    "start_time": "09-Sep-2026 11:05:41",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "P.K. Mandi",
+    "area": "Pillukhera Mandi",
+    "start_time": "09-Sep-2026 11:29:29",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "KARKHANA DS",
+    "area": "Karkhana",
+    "start_time": "09-Sep-2026 11:35:01",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Akal Garh",
+    "area": "Bhuda Khera",
+    "start_time": "09-Sep-2026 10:45:58",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Akal Garh",
+    "area": "Malwi",
+    "start_time": "09-Sep-2026 10:45:58",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Akal Garh",
+    "area": "Sirsa Kheri",
+    "start_time": "09-Sep-2026 10:45:58",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Akal Garh",
+    "area": "Akalgarh",
+    "start_time": "09-Sep-2026 10:45:58",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Akal Garh",
+    "area": "Lijwana  Khurd",
+    "start_time": "09-Sep-2026 10:45:58",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Akal Garh",
+    "area": "Lijwan kalan",
+    "start_time": "09-Sep-2026 10:45:58",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Akal Garh",
+    "area": "Kharainti",
+    "start_time": "09-Sep-2026 10:45:58",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "Akal Garh",
+    "area": "Nandgarh",
+    "start_time": "09-Sep-2026 10:45:58",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "ALLAN AP",
+    "area": "Allan Jogi Khera",
+    "start_time": "09-Sep-2026 10:46:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "HOSHIYARPURA AP",
+    "area": "Hoshiyarpura",
+    "start_time": "09-Sep-2026 11:35:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Shiv Puri Colony Nareana Road",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Shivpuri Colony ( Narwana Road )",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Hari Mohalla",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Rajender Nagar",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Daya Basti (Narwana Road )",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Narwana Road Near Peer Baba Jind",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Sheetal Puri Colony",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Jain Sthanak Narwana Road",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Harijan Basti",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Sheetel Puri Colony",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Trikona Park Patiala Chowk",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Sundar Nagar",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Water Disposel Narwana Road Jind",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Old Satsang Bhawan Apollo Road Jind",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
+  },
+  {
+    "feeder": "NARWANA ROAD (U)",
+    "area": "Narwana Road",
+    "start_time": "09-Sep-2026 11:27:34",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/9/2026, 11:35:40 AM (IST)",
+    "last_seen_at": "9/9/2026, 11:35:40 AM (IST)",
+    "timestamp": 1788953740000
   }
 ]
