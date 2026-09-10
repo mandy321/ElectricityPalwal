@@ -8506,7 +8506,7 @@
     "expected_restoration_time": "01-Sep-2026 15:00:00",
     "remarks": "INSULATOR PUNCTURE",
     "scraped_at": "9/1/2026, 2:59:31 PM (IST)",
-    "last_seen_at": "9/10/2026, 6:57:52 AM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
     "timestamp": 1788274771000
   },
   {
@@ -17646,7 +17646,7 @@
     "expected_restoration_time": "24-Jul-2026 14:10:00",
     "remarks": "Pole Tilted",
     "scraped_at": "9/4/2026, 10:17:55 PM (IST)",
-    "last_seen_at": "9/10/2026, 6:57:52 AM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
     "timestamp": 1788560275000
   },
   {
@@ -30486,7 +30486,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:13:51 AM (IST)",
-    "last_seen_at": "9/10/2026, 6:57:52 AM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
     "timestamp": 1788999231000
   },
   {
@@ -30496,7 +30496,7 @@
     "expected_restoration_time": "",
     "remarks": "",
     "scraped_at": "9/10/2026, 12:13:51 AM (IST)",
-    "last_seen_at": "9/10/2026, 6:57:52 AM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
     "timestamp": 1788999231000
   },
   {
@@ -30968,5 +30968,125 @@
     "scraped_at": "9/10/2026, 6:57:52 AM (IST)",
     "last_seen_at": "9/10/2026, 6:57:52 AM (IST)",
     "timestamp": 1789023472000
+  },
+  {
+    "feeder": "NITROGEN PLANT DS",
+    "area": "Begu",
+    "start_time": "10-Sep-2026 11:00:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "ABODH GARH-RDF/RDF-OTTU DS",
+    "area": "About Garh",
+    "start_time": "10-Sep-2026 11:00:24",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "OTTU DS",
+    "area": "8 Burji",
+    "start_time": "10-Sep-2026 11:00:22",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "OTTU DS",
+    "area": "Dhani Bilaspur",
+    "start_time": "10-Sep-2026 11:00:22",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "OTTU DS",
+    "area": "Abholi",
+    "start_time": "10-Sep-2026 11:00:22",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "OTTU DS",
+    "area": "12 Burji",
+    "start_time": "10-Sep-2026 11:00:22",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "OTTU DS",
+    "area": "Ottu",
+    "start_time": "10-Sep-2026 11:00:22",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "OTTU DS",
+    "area": "Firozabad",
+    "start_time": "10-Sep-2026 11:00:22",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "KIRTI NAGAR",
+    "area": "Auto Market",
+    "start_time": "10-Sep-2026 11:35:40",
+    "expected_restoration_time": "10-Sep-2026 19:55:40",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "KIRTI NAGAR",
+    "area": "Aggarsain Colony",
+    "start_time": "10-Sep-2026 11:35:40",
+    "expected_restoration_time": "10-Sep-2026 19:55:40",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "KIRTI NAGAR",
+    "area": "Kirti Nagar",
+    "start_time": "10-Sep-2026 11:35:40",
+    "expected_restoration_time": "10-Sep-2026 19:55:40",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
+  },
+  {
+    "feeder": "KIRTI NAGAR",
+    "area": "Hari Vishnu Colony",
+    "start_time": "10-Sep-2026 11:35:40",
+    "expected_restoration_time": "10-Sep-2026 19:55:40",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:52 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:52 PM (IST)",
+    "timestamp": 1789042132000
   }
 ]

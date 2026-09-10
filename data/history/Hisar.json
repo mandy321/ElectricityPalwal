@@ -47438,5 +47438,415 @@
     "scraped_at": "9/10/2026, 6:57:58 AM (IST)",
     "last_seen_at": "9/10/2026, 6:57:58 AM (IST)",
     "timestamp": 1789023478000
+  },
+  {
+    "feeder": "MILKPUR DS",
+    "area": "Milak Pur",
+    "start_time": "10-Sep-2026 11:36:41",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "SISAI KALIRAMAN DS",
+    "area": "Sisai Kali Ravan",
+    "start_time": "09-Sep-2026 15:46:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "SISAI KALIRAMAN DS",
+    "area": "Sisai Bola",
+    "start_time": "09-Sep-2026 15:46:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "SISAI KALIRAMAN DS",
+    "area": "Sisai Bolan",
+    "start_time": "09-Sep-2026 15:46:09",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "I.T.I. J/METAL",
+    "area": "New Model Town",
+    "start_time": "10-Sep-2026 11:01:29",
+    "expected_restoration_time": "10-Sep-2026 13:01:29",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "I.T.I. J/METAL",
+    "area": "Dayanand Colony",
+    "start_time": "10-Sep-2026 11:01:29",
+    "expected_restoration_time": "10-Sep-2026 13:01:29",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "I.T.I. J/METAL",
+    "area": "Model Town Extension",
+    "start_time": "10-Sep-2026 11:01:29",
+    "expected_restoration_time": "10-Sep-2026 13:01:29",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Gurdawara Road",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Tower Enclave",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Sant Vihar",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Rajendra Enclave",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Ganesh Nagar",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Ganesh Nagar Area",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Santro Enclave",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "New Model Town Extinction",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Jindal House And  Quarter",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Model Town",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "M C Colony",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "MODEL TOWN",
+    "area": "Centro Enclave",
+    "start_time": "10-Sep-2026 11:20:33",
+    "expected_restoration_time": "10-Sep-2026 12:37:25",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "BHOJRAJ DS",
+    "area": "Dhamana",
+    "start_time": "10-Sep-2026 11:28:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "BHOJRAJ DS",
+    "area": "Bhojraj",
+    "start_time": "10-Sep-2026 11:28:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "BHOJRAJ DS",
+    "area": "Village Dahima",
+    "start_time": "10-Sep-2026 11:28:07",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "AZAD NAGAR",
+    "area": "Saket Colony",
+    "start_time": "10-Sep-2026 09:55:14",
+    "expected_restoration_time": "10-Sep-2026 11:55:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "AZAD NAGAR",
+    "area": "Shiv Colony Azad Nagar",
+    "start_time": "10-Sep-2026 09:55:14",
+    "expected_restoration_time": "10-Sep-2026 11:55:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "AZAD NAGAR",
+    "area": "Shivaji Colony (Azad Nagar)",
+    "start_time": "10-Sep-2026 09:55:14",
+    "expected_restoration_time": "10-Sep-2026 11:55:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "AZAD NAGAR",
+    "area": "Saket Colony Azad Nagar",
+    "start_time": "10-Sep-2026 09:55:14",
+    "expected_restoration_time": "10-Sep-2026 11:55:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "AZAD NAGAR",
+    "area": "Shiv Nagar (Azad Nagar)",
+    "start_time": "10-Sep-2026 09:55:14",
+    "expected_restoration_time": "10-Sep-2026 11:55:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "AZAD NAGAR",
+    "area": "Professor Colony (HAU)",
+    "start_time": "10-Sep-2026 09:55:14",
+    "expected_restoration_time": "10-Sep-2026 11:55:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "AZAD NAGAR",
+    "area": "Rajgarh Road (Azad Nagar)",
+    "start_time": "10-Sep-2026 09:55:14",
+    "expected_restoration_time": "10-Sep-2026 11:55:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "AZAD NAGAR",
+    "area": "Proffessar Colony (Azad Nagar)",
+    "start_time": "10-Sep-2026 09:55:14",
+    "expected_restoration_time": "10-Sep-2026 11:55:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "PETWAR DS",
+    "area": "Petwar",
+    "start_time": "10-Sep-2026 10:21:46",
+    "expected_restoration_time": "",
+    "remarks": "",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Tosham Road Iti Chowk",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Jindal Chowk Area",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Old Model Town",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Gurudwara Road",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Iti Chowk",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Prem Colony",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Dabra Road ( Arya Samaj Mandir )",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Naruala Park",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Jindal Hospital Road",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
+  },
+  {
+    "feeder": "GURU DAWARA",
+    "area": "Pushpa Complex",
+    "start_time": "10-Sep-2026 10:56:14",
+    "expected_restoration_time": "10-Sep-2026 12:56:14",
+    "remarks": "Issue will be resolved in estimated time",
+    "scraped_at": "9/10/2026, 12:08:58 PM (IST)",
+    "last_seen_at": "9/10/2026, 12:08:58 PM (IST)",
+    "timestamp": 1789042138000
   }
 ]
